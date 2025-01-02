@@ -1,0 +1,23 @@
+{
+    "ricco": {
+      "type": "container",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "vertical",
+          "content": [
+            {
+              "type": "map",
+              "maps": [
+                "", "Ricco Harbor", ""
+              ]
+            },
+            {
+              "type": "container"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

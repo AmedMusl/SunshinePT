@@ -1,0 +1,23 @@
+{
+    "sirena": {
+      "type": "container",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "vertical",
+          "content": [
+            {
+              "type": "map",
+              "maps": [
+                "", "Sirena Beach", ""
+              ]
+            },
+            {
+              "type": "container"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

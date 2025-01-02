@@ -1,0 +1,84 @@
+{
+    "layout_maps": {
+      "type": "container",
+      "content": [
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Delfino Plaza",
+              //"icon": "images/icons/Shine_Sprite.png",
+              "content": {
+                "type": "layout",
+                "key": "plaza"
+              }
+            },
+            {
+              "title": "Bianco Hills",
+              //"icon": "images/items/bow.png",
+              "content": {
+                "type": "layout",
+                "key": "bianco"
+              }
+            },
+            {
+              "title": "Ricco Harbor",
+              //"icon": "images/items/trod.png",
+              "content": {
+                "type": "layout",
+                "key": "ricco"
+              }
+            },
+            {
+              "title": "Gelato Beach",
+              //"icon": "images/items/hammer.png",
+              "content": {
+                "type": "layout",
+                "key": "gelato"
+              }
+            },
+            {
+              "title": "Pinna Park",
+              //"icon": "images/items/msword.png",
+              "content": {
+                "type": "layout",
+                "key": "pinna"
+              }
+            },
+            {
+              "title": "Sirena Beach",
+              //"icon": "images/items/bombs.png",
+              "content": {
+                "type": "layout",
+                "key": "sirena"
+              }
+            },
+            {
+              "title": "Noki Bay",
+              //"icon": "images/items/hookshot.png",
+              "content": {
+                "type": "layout",
+                "key": "noki"
+              }
+            },
+            {
+              "title": "Pianta Village",
+              //"icon": "images/items/lamp.png",
+              "content": {
+                "type": "layout",
+                "key": "pianta"
+              }
+            },
+            {
+              "title": "Corona Mountain",
+              //"icon": "images/items/flippers.png",
+              "content": {
+                "type": "layout",
+                "key": "corona"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }

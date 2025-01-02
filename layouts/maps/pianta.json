@@ -1,0 +1,23 @@
+{
+    "pianta": {
+      "type": "container",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "vertical",
+          "content": [
+            {
+              "type": "map",
+              "maps": [
+                "", "Pianta Village", ""
+              ]
+            },
+            {
+              "type": "container"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

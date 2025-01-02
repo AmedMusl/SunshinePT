@@ -1,0 +1,23 @@
+{
+    "bianco": {
+      "type": "container",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "vertical",
+          "content": [
+            {
+              "type": "map",
+              "maps": [
+                "", "Bianco Hills", ""
+              ]
+            },
+            {
+              "type": "container"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  
