@@ -1,0 +1,23 @@
+{
+    "gelato": {
+      "type": "container",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "vertical",
+          "content": [
+            {
+              "type": "map",
+              "maps": [
+                "", "Gelato Beach", ""
+              ]
+            },
+            {
+              "type": "container"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

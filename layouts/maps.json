@@ -1,0 +1,75 @@
+{
+    "layout_maps": {
+      "type": "container",
+      "content": [
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Delfino Plaza",
+              "content": {
+                "type": "layout",
+                "key": "plaza"
+              }
+            },
+            {
+              "title": "Bianco Hills",
+              "content": {
+                "type": "layout",
+                "key": "bianco"
+              }
+            },
+            {
+              "title": "Ricco Harbor",
+              "content": {
+                "type": "layout",
+                "key": "ricco"
+              }
+            },
+            {
+              "title": "Gelato Beach",
+              "content": {
+                "type": "layout",
+                "key": "gelato"
+              }
+            },
+            {
+              "title": "Pinna Park",
+              "content": {
+                "type": "layout",
+                "key": "pinna"
+              }
+            },
+            {
+              "title": "Sirena Beach",
+              "content": {
+                "type": "layout",
+                "key": "sirena"
+              }
+            },
+            {
+              "title": "Noki Bay",
+              "content": {
+                "type": "layout",
+                "key": "noki"
+              }
+            },
+            {
+              "title": "Pianta Village",
+              "content": {
+                "type": "layout",
+                "key": "pianta"
+              }
+            },
+            {
+              "title": "Corona Mountain",
+              "content": {
+                "type": "layout",
+                "key": "corona"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }

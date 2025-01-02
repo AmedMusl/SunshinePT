@@ -35,8 +35,19 @@ end
 
 -- Layout
 Tracker:AddLayouts("layouts/items.json")
+Tracker:AddLayouts("layouts/maps.json")
 Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/broadcast.json")
+
+Tracker:AddLayouts("layouts/maps/plaza.json")
+Tracker:AddLayouts("layouts/maps/bianco.json")
+Tracker:AddLayouts("layouts/maps/ricco.json")
+Tracker:AddLayouts("layouts/maps/gelato.json")
+Tracker:AddLayouts("layouts/maps/pinna.json")
+Tracker:AddLayouts("layouts/maps/sirena.json")
+Tracker:AddLayouts("layouts/maps/noki.json")
+Tracker:AddLayouts("layouts/maps/pianta.json")
+Tracker:AddLayouts("layouts/maps/corona.json")
 
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.18.0" then

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Example Parent",
+    "name": "Bianco Hills",
     "children": [
       {
         "name": "Example Location 1",
@@ -20,12 +20,12 @@
         ],
         "map_locations": [
           {
-            "map": "map1",
+            "map": "Bianco Hills",
             "x": 1750,
             "y": 700
           },
           {
-            "map": "map2",
+            "map": "Bianco Hills",
             "x": 1000,
             "y": 500
           }
@@ -44,7 +44,7 @@
         ],
         "map_locations": [
           {
-            "map": "map1",
+            "map": "Bianco Hills",
             "x": 1500,
             "y": 400
           }
