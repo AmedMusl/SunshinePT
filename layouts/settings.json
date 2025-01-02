@@ -1,0 +1,25 @@
+{
+    "settings_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "rows": [
+                            ["level_access", "coin_shines_enabled", "blue_coin_sanity"],
+                            ["corona_amount", "blue_maximum", "boat_maximum", "starting_nozzle", "yoshi_mode"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
