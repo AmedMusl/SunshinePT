@@ -1,8 +1,8 @@
 [
   {
-    "name": "FLUDD Nozzle",
+    "name": "Spray  Nozzle",
     "type": "toggle",
-    "img": "images/items/FLUDD.png",
+    "img": "images/items/Spray_Nozzle.png",
     "codes": "fludd"
   },
   {
