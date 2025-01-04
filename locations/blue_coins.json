@@ -605,5 +605,612 @@
                 ]
             }
         ]
-    }
+    },
+    {
+      "name": "Ricco Blue Coins",
+      "chest_unopened_img": "images/items/Blue_Coin.png",
+      "chest_opened_img": "images/items/Blue_Coin_Grey.png",
+      "children": [
+        {
+          "name": "Tower Wall",
+          "access_rules": [
+            ""
+          ],
+          "sections": [
+            {
+              "name": "Blue Coin",
+              "item_count": 1
+            }
+          ],
+          "map_locations": [
+            {
+              "map": "Ricco Harbor",
+              "x": 658,
+              "y": 299,
+              "size": 16
+            }
+          ]
+      },
+      {
+        "name": "Outer Ship M",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 583,
+            "y": 430,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Spawn Building Top M",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 197,
+            "y": 494,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Fruit Machine X",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 1147,
+            "y": 132,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Rooftop M",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 966,
+            "y": 149,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Far Ledge",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 1564,
+            "y": 343,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Short Beam",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 614,
+            "y": 450,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Tower Platform",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 618,
+            "y": 287,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Long Beam",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 708,
+            "y": 319,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Off Catwalk",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 968,
+            "y": 606,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Crane",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 602,
+            "y": 523,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Blooper Open Water",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 1205,
+            "y": 702,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Fountain",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 802,
+            "y": 296,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Tower X",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 566,
+            "y": 361,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Fountain M",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 866,
+            "y": 261,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Tower Crate",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 484,
+            "y": 345,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Tower Ground M",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 624,
+            "y": 389,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Spawn Building Side M",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 264,
+            "y": 525,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Inner Ship M",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 556,
+            "y": 490,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Yellow Submarine",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 939,
+            "y": 463,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Blooper Underground Entrance",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 1257,
+            "y": 330,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Tower Rocket",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 560,
+            "y": 192,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mesh Wall Klamber",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 462,
+            "y": 489,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Mesh Ceiling Klamber",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 562,
+            "y": 451,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Caged Blooper",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 719,
+            "y": 517,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Blue Butterflies",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 1124,
+            "y": 207,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Wall Klamber",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 694,
+            "y": 275,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "High Platform M",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 1322,
+            "y": 462,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Fish Basket",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 1206,
+            "y": 173,
+            "size": 16
+          }
+        ]
+      },
+      {
+        "name": "Underwater",
+        "access_rules": [
+          ""
+        ],
+        "sections": [
+          {
+            "name": "Blue Coin",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Ricco Harbor",
+            "x": 815,
+            "y": 610,
+            "size": 16
+          }
+        ]
+      }
+    ]
+  }  
 ]
