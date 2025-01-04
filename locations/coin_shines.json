@@ -1,0 +1,175 @@
+[
+    {
+        "name": "Secret Shine",
+        "access_rules": [
+            "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+            {
+                "name": "100 Coins",
+                "item_count": 1
+            }
+            ],
+            "map_locations": [
+            {
+                "map": "Delfino Plaza",
+                "x": 500,
+                "y": 945
+            },
+            {
+                "map": "Delfino Airstrip",
+                "x": 649,
+                "y": 650
+            }
+        ]
+    },
+    {
+        "name": "Secret Shine",
+        "access_rules": [
+            "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+            {
+                "name": "100 Coins",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Bianco Hills",
+                "x": 815,
+                "y": 550
+            }
+        ]
+    },
+    {
+        "name": "Secret Shine",
+        "access_rules": [
+            "progressive_2",
+            "toggle"
+        ],
+        "sections": [
+            {
+                "name": "100 Coins",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Ricco Harbor",
+                "x": 1025,
+                "y": 235
+            }
+        ]
+    },
+    {
+        "name": "Secret Shine",
+        "access_rules": [
+            "progressive_2",
+            "toggle"
+        ],
+        "sections": [
+            {
+                "name": "100 Coins",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Gelato Beach",
+                "x": 415,
+                "y": 240
+            }
+        ]
+    },
+    {
+        "name": "Secret Shine",
+        "access_rules": [
+            "progressive_2",
+            "toggle"
+        ],
+        "sections": [
+            {
+                "name": "100 Coins",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Pinna Park",
+                "x": 1390,
+                "y": 1010
+            }
+        ]
+    },
+    {
+        "name": "Secret Shine",
+        "access_rules": [
+            "progressive_2",
+            "toggle"
+        ],
+        "sections": [
+            {
+                "name": "100 Coins",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Sirena Beach",
+                "x": 850,
+                "y": 815
+            },
+            {
+                "map": "Hotel Delfino",
+                "x": 440,
+                "y": 1120
+            }
+        ]
+    },
+    {
+        "name": "Secret Shine",
+        "access_rules": [
+            "progressive_2",
+            "toggle"
+        ],
+        "sections": [
+            {
+                "name": "100 Coins",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Noki Bay",
+                "x": 335,
+                "y": 635
+            },
+            {
+                "map": "Noki Bay",
+                "x": 1330,
+                "y": 710
+            }
+        ]
+    },
+    {
+        "name": "Secret Shine",
+        "access_rules": [
+            "progressive_2",
+            "toggle"
+        ],
+        "sections": [
+            {
+                "name": "100 Coins",
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Pianta Village",
+                "x": 1475,
+                "y": 1370
+            }
+        ]
+    }
+]
