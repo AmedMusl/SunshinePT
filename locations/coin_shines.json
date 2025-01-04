@@ -104,6 +104,11 @@
                         "map": "Pinna Park",
                         "x": 1390,
                         "y": 1010
+                    },
+                    {
+                        "map": "Pinna Park",
+                        "x": 654,
+                        "y": 859
                     }
                 ]
             },
@@ -177,8 +182,8 @@
                 "map_locations": [
                     {
                         "map": "Pianta Village",
-                        "x": 1475,
-                        "y": 1370
+                        "x": 1039,
+                        "y": 831
                     }
                 ]
             }
