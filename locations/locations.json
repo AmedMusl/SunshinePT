@@ -5,7 +5,7 @@
     "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
     "children": [
       {
-        "name": "Episode 1",
+        "name": "Secret Shine",
         "access_rules": [
           "progressive_2",
           "toggle"
@@ -737,7 +737,7 @@
           {
             "map": "Ricco Harbor",
             "x": 560,
-            "y": 580
+            "y": 280
           }
         ]
       },
@@ -1377,7 +1377,7 @@
         "map_locations": [
           {
             "map": "Sirena Beach",
-            "x": 1170,
+            "x": 1110,
             "y": 1135
           }
         ]
@@ -1398,7 +1398,7 @@
           {
             "map": "Sirena Beach",
             "x": 785,
-            "y": 785
+            "y": 795
           },
           {
             "map": "Hotel Delfino",
@@ -1474,8 +1474,8 @@
         "map_locations": [
           {
             "map": "Noki Bay",
-            "x": 1270,
-            "y": 520
+            "x": 1285,
+            "y": 510
           }
         ]
       },
@@ -1638,7 +1638,7 @@
         "map_locations": [
           {
             "map": "Noki Bay",
-            "x": 235,
+            "x": 335,
             "y": 635
           },
           {
@@ -1906,7 +1906,7 @@
         "map_locations": [
           {
             "map": "Corona Mountain",
-            "x": 1015,
+            "x": 1125,
             "y": 355
           }
         ]
