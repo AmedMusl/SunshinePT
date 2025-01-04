@@ -26,13 +26,13 @@ ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
 -- Items
 Tracker:AddItems("items/items.json")
 
-if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
-    -- Maps
-    Tracker:AddMaps("maps/maps.json")
-    -- Locations
-    Tracker:AddLocations("locations/locations.json")
-    Tracker:AddLocations("locations/blue_coins.json")
-end
+-- if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
+--     -- Maps
+--     Tracker:AddMaps("maps/maps.json")
+--     -- Locations
+--     Tracker:AddLocations("locations/locations.json")
+--     Tracker:AddLocations("locations/blue_coins.json")
+-- end
 
 -- Layout
 Tracker:AddLayouts("layouts/items.json")
