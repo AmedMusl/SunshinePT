@@ -2,6 +2,7 @@
     {
         "name": "Bianco Blue Coins",
         "chest_unopened_img": "images/items/Blue_Coin.png",
+        "chest_opened_img": "images/items/Blue_Coin_Grey.png",
         "children": [
             {
                 "name": "Windmill M",

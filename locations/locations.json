@@ -2,6 +2,7 @@
   {
     "name": "Bianco Hills",
     "chest_unopened_img": "images/items/Shine_Sprite.png",
+    "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
     "children": [
       {
         "name": "Episode 1",
