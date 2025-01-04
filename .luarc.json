@@ -1,15 +1,5 @@
 {
     "$schema": "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json",
     "workspace.library": ["../../api/lua/definition"],
-    "runtime.version": "Lua 5.4",
-    "diagnostics.globals": [
-        "AUTOTRACKER_ENABLE_LOCATION_TRACKING",
-        "dump_table",
-        "has_value",
-        "onClear",
-        "onItem",
-        "onLocation",
-        "class",
-        "has_more_then_n_consumable"
-    ]
+    "runtime.version": "Lua 5.4"
 }
