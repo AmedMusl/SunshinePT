@@ -1,55 +1,55 @@
 [
   {
     "name": "Delfino Plaza",
-    "location_size": 48,
+    "location_size": 100,
     "location_border_thickness": 4,
     "img": "images/maps/DelfinoPlaza.png"
   },
   {
     "name": "Bianco Hills",
-    "location_size": 48,
+    "location_size": 100,
     "location_border_thickness": 4,
     "img": "images/maps/BiancoHills.png"
   },
   {
     "name": "Ricco Harbor",
-    "location_size": 48,
+    "location_size": 100,
     "location_border_thickness": 4,
     "img": "images/maps/RiccoHarbor.png"
   },
   {
     "name": "Gelato Beach",
-    "location_size": 48,
+    "location_size": 100,
     "location_border_thickness": 4,
     "img": "images/maps/GelatoBeach.png"
   },
   {
     "name": "Pinna Park",
-    "location_size": 48,
+    "location_size": 100,
     "location_border_thickness": 4,
     "img": "images/maps/PinnaPark.png"
   },
   {
     "name": "Noki Bay",
-    "location_size": 48,
+    "location_size": 100,
     "location_border_thickness": 4,
     "img": "images/maps/NokiBay.png"
   },
   {
     "name": "Sirena Beach",
-    "location_size": 48,
+    "location_size": 100,
     "location_border_thickness": 4,
     "img": "images/maps/SirenaBeach.png"
   },
   {
     "name": "Pianta Village",
-    "location_size": 48,
+    "location_size": 100,
     "location_border_thickness": 4,
     "img": "images/maps/PiantaVillage.png"
   },
   {
     "name": "Corona Mountain",
-    "location_size": 48,
+    "location_size": 100,
     "location_border_thickness": 4,
     "img": "images/maps/CoronaMountain.png"
   }
