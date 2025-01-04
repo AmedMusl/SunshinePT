@@ -30,7 +30,7 @@
             },
             {
                 "type": "dock",
-                "background": "#00FF00",
+                "background": "#000000",
                 "content": [
                     {
                         "type": "layout",

@@ -4,16 +4,14 @@
       "content": [
         {
           "type": "array",
-          "orientation": "vertical",
+          "orientation": "horizontal",
+          "style": "wrap",
           "content": [
             {
               "type": "map",
               "maps": [
-                "", "Ricco Harbor", ""
+                "Ricco Harbor"
               ]
-            },
-            {
-              "type": "container"
             }
           ]
         }
