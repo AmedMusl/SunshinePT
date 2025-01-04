@@ -3,9 +3,9 @@
     "workspace.library": ["../../api/lua/definition"],
     "runtime.version": "Lua 5.4",
     "diagnostics.globals": [
-        "AUTOTRACKER_ENABLE_LOCATION_TRACKING",
-        "dump_table",
+        "IS_ITEMS_ONLY",
         "has_value",
+        "dump_table",
         "onClear",
         "onItem",
         "onLocation",
