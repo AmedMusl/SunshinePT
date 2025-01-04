@@ -5,6 +5,7 @@
         "content": [
             {
                 "type": "dock",
+                "dock": "left",
                 "dropshadow": true,
                 "content": [
                     {
@@ -28,10 +29,14 @@
                 ]
             },
             {
-                "type": "container",
+                "type": "dock",
+                "background": "#000000",
                 "content": [
                     {
                         "type": "layout",
+                        "h_alignment": "stretch",
+                        "v_alignment": "stretch",
+                        "margin": "0,0,3,0",
                         "key": "layout_maps"
                     }
                 ]
