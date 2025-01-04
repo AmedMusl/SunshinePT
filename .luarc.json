@@ -1,5 +1,15 @@
 {
     "$schema": "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json",
     "workspace.library": ["../../api/lua/definition"],
-    "runtime.version": "Lua 5.4"
+    "runtime.version": "Lua 5.4",
+    "diagnostics.globals": [
+        "IS_ITEMS_ONLY",
+        "has_value",
+        "dump_table",
+        "onClear",
+        "onItem",
+        "onLocation",
+        "class",
+        "has_more_then_n_consumable"
+    ]
 }
