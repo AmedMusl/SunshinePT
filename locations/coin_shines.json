@@ -104,6 +104,11 @@
                         "map": "Pinna Park",
                         "x": 1390,
                         "y": 1010
+                    },
+                    {
+                        "map": "Pinna Park",
+                        "x": 654,
+                        "y": 859
                     }
                 ]
             },
@@ -122,13 +127,18 @@
                 "map_locations": [
                     {
                         "map": "Sirena Beach",
-                        "x": 850,
-                        "y": 815
+                        "x": 788,
+                        "y": 938
                     },
                     {
                         "map": "Hotel Delfino",
-                        "x": 440,
-                        "y": 1120
+                        "x": 357,
+                        "y": 1171
+                    },
+                    {
+                        "map": "Hotel Delfino",
+                        "x": 850,
+                        "y": 1361
                     }
                 ]
             },
@@ -172,8 +182,8 @@
                 "map_locations": [
                     {
                         "map": "Pianta Village",
-                        "x": 1475,
-                        "y": 1370
+                        "x": 1039,
+                        "y": 831
                     }
                 ]
             }
