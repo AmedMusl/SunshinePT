@@ -7,7 +7,7 @@
   "author": "UmedMuzl, Schwartz Gandhi",
   "variants": {
     "standard": {
-      "display_name": "Item Tracker",
+      "display_name": "Map Tracker",
       "flags": [
         "ap"
       ]

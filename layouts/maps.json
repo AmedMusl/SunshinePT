@@ -42,6 +42,15 @@
               }
             },
             {
+              "title": "Sand Bird",
+              "content": {
+                "type": "layout",
+                "orientation": "horizontal",
+                "style": "wrap",
+                "key": "sandbird"
+              }
+            },
+            {
               "title": "Pinna Park",
               "content": {
                 "type": "layout",
@@ -60,6 +69,15 @@
               }
             },
             {
+              "title": "Hotel Delfino",
+              "content": {
+                "type": "layout",
+                "orientation": "horizontal",
+                "style": "wrap",
+                "key": "hotel"
+              }
+            },
+            {
               "title": "Noki Bay",
               "content": {
                 "type": "layout",
@@ -69,12 +87,30 @@
               }
             },
             {
+              "title": "Under the Waterfall",
+              "content": {
+                "type": "layout",
+                "orientation": "horizontal",
+                "style": "wrap",
+                "key": "mare"
+              }
+            },
+            {
               "title": "Pianta Village",
               "content": {
                 "type": "layout",
                 "orientation": "horizontal",
                 "style": "wrap",
                 "key": "pianta"
+              }
+            },
+            {
+              "title": "Village Underside",
+              "content": {
+                "type": "layout",
+                "orientation": "horizontal",
+                "style": "wrap",
+                "key": "underside"
               }
             },
             {
