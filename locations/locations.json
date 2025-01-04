@@ -1,52 +1,185 @@
 [
   {
     "name": "Bianco Hills",
+    "chest_unopened_img": "images/items/Shine_Sprite.png",
     "children": [
       {
-        "name": "Example Location 1",
+        "name": "Episode 1",
         "access_rules": [
           "progressive_2",
           "toggle"
         ],
         "sections": [
           {
-            "name": "Example Section 1",
+            "name": "Road to the Big Windmill",
             "item_count": 1
-          },
-          {
-            "name": "Example Section 2",
-            "item_count": 3
           }
         ],
         "map_locations": [
           {
             "map": "Bianco Hills",
-            "x": 1750,
-            "y": 700
-          },
-          {
-            "map": "Bianco Hills",
-            "x": 1000,
-            "y": 500
+            "x": 1070,
+            "y": 725
           }
         ]
       },
       {
-        "name": "Example Location 2",
+        "name": "Episode 2",
         "access_rules": [
           "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
-            "name": "Example Section 1",
+            "name": "Down with Petey Piranha!",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
             "map": "Bianco Hills",
-            "x": 1500,
-            "y": 400
+            "x": 1495,
+            "y": 370
+          }
+        ]
+      },
+      {
+        "name": "Episode 3",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "The Hillside Cave Secret",
+            "item_count": 1
+          },
+          {
+            "name": "Red Coins of the Hillside Cave",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Bianco Hills",
+            "x": 1030,
+            "y": 1020
+          }
+        ]
+      },
+      {
+        "name": "Episode 4",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Red Coins of Windmill Village",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Bianco Hills",
+            "x": 600,
+            "y": 435
+          }
+        ]
+      },
+      {
+        "name": "Episode 5",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Petey Piranha Strikes Back",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Bianco Hills",
+            "x": 1235,
+            "y": 140
+          }
+        ]
+      },
+      {
+        "name": "Episode 6",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Secret of the Dirty Lake",
+            "item_count": 1
+          },
+          {
+            "name": "Red Coins of the Dirty Lake",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Bianco Hills",
+            "x": 1760,
+            "y": 520
+          }
+        ]
+      },
+      {
+        "name": "Episode 7",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Shadow Mario on the Loose",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Bianco Hills",
+            "x": 265,
+            "y": 615
+          }
+        ]
+      },
+      {
+        "name": "Episode 8",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "The Red Coins of the Lake",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Bianco Hills",
+            "x": 1465,
+            "y": 495
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "100 Coins",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Bianco Hills",
+            "x": 815,
+            "y": 550
           }
         ]
       }
