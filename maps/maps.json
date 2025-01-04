@@ -1,5 +1,11 @@
 [
   {
+  "name": "Delfino Airstrip",
+  "location_size": 24,
+  "location_border_thickness": 2,
+  "img": "images/maps/DelfinoAirstrip.png"
+  },
+  {
     "name": "Delfino Plaza",
     "location_size": 24,
     "location_border_thickness": 2,

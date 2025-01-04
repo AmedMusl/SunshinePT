@@ -25,6 +25,11 @@
             "map": "Delfino Plaza",
             "x": 395,
             "y": 645
+          },
+          {
+            "map": "Delfino Airstrip",
+            "x": 824,
+            "y": 718
           }
         ]
       }
@@ -332,6 +337,11 @@
             "map": "Delfino Plaza",
             "x": 500,
             "y": 945
+          },
+          {
+            "map": "Delfino Airstrip",
+            "x": 649,
+            "y": 650
           }
         ]
       }

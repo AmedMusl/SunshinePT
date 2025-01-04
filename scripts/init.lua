@@ -41,6 +41,7 @@ Tracker:AddLayouts("layouts/maps.json")
 Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 
+Tracker:AddLayouts("layouts/maps/airstrip.json")
 Tracker:AddLayouts("layouts/maps/plaza.json")
 Tracker:AddLayouts("layouts/maps/bianco.json")
 Tracker:AddLayouts("layouts/maps/ricco.json")

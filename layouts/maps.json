@@ -6,6 +6,15 @@
           "type": "tabbed",
           "tabs": [
             {
+              "title": "Delfino Airstrip",
+              "content": {
+                "type": "layout",
+                "orientation": "horizontal",
+                "style": "wrap",
+                "key": "airstrip"
+              }
+            },
+            {
               "title": "Delfino Plaza",
               "content": {
                 "type": "layout",
