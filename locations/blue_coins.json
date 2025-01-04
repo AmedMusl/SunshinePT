@@ -2006,7 +2006,7 @@
         ]
       },
       {
-        "name": "Far Underwater",
+        "name": "Blue Fish School",
         "access_rules": [
           ""
         ],
@@ -2026,7 +2026,7 @@
         ]
       },
       {
-        "name": "Blue Fish",
+        "name": "Far Underwater",
         "access_rules": [
           ""
         ],
@@ -2039,14 +2039,14 @@
         "map_locations": [
           {
             "map": "Gelato Beach",
-            "x": 661,
-            "y": 1010,
+            "x": 883,
+            "y": 1112,
             "size": 16
           }
         ]
       },
       {
-        "name": "Red Fish",
+        "name": "Red Fish School",
         "access_rules": [
           ""
         ],
@@ -2246,8 +2246,8 @@
         "map_locations": [
           {
             "map": "Sirena Beach",
-            "x": 1647,
-            "y": 537,
+            "x": 1351,
+            "y": 1470,
             "size": 16
           }
         ]
@@ -2326,8 +2326,8 @@
         "map_locations": [
           {
             "map": "Sirena Beach",
-            "x": 1647,
-            "y": 537,
+            "x": 772,
+            "y": 956,
             "size": 16
           }
         ]
