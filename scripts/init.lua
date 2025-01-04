@@ -26,13 +26,13 @@ ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
 -- Items
 Tracker:AddItems("items/items.json")
 
-if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
-    -- Maps
-    Tracker:AddMaps("maps/maps.json")
-    -- Locations
-    Tracker:AddLocations("locations/locations.json")
-    Tracker:AddLocations("locations/blue_coins.json")
-end
+-- Maps
+Tracker:AddMaps("maps/maps.json")
+
+-- Locations
+Tracker:AddLocations("locations/locations.json")
+Tracker:AddLocations("locations/blue_coins.json")
+Tracker:AddLocations("locations/coin_shines.json")
 
 -- Layout
 Tracker:AddLayouts("layouts/items.json")
@@ -40,6 +40,7 @@ Tracker:AddLayouts("layouts/maps.json")
 Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 
+Tracker:AddLayouts("layouts/maps/airstrip.json")
 Tracker:AddLayouts("layouts/maps/plaza.json")
 Tracker:AddLayouts("layouts/maps/bianco.json")
 Tracker:AddLayouts("layouts/maps/ricco.json")

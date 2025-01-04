@@ -25,6 +25,11 @@
             "map": "Delfino Plaza",
             "x": 395,
             "y": 645
+          },
+          {
+            "map": "Delfino Airstrip",
+            "x": 824,
+            "y": 718
           }
         ]
       }
@@ -315,149 +320,6 @@
             "y": 455
           }
         ]
-      },
-      {
-        "name": "Secret Shine",
-        "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
-        ],
-        "sections": [
-          {
-            "name": "100 Coins",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Delfino Plaza",
-            "x": 500,
-            "y": 945
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Boathouse Traders",
-    "chest_unopened_img": "images/items/Shine_Sprite.png",
-    "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
-    "children": [
-      {
-        "name": "Secret Shine",
-        "access_rules": [
-          "progressive_2",
-          "toggle"
-        ],
-        "sections": [
-          {
-            "name": "Shine 1",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 2",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 3",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 4",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 5",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 6",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 7",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 8",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 9",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 10",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 11",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 12",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 13",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 14",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 15",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 16",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 17",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 18",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 19",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 20",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 21",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 22",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 23",
-            "item_count": 1
-          },
-          {
-            "name": "Shine 24",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Delfino Plaza",
-            "x": 360,
-            "y": 575
-          },
-          {
-            "map": "Delfino Plaza",
-            "x": 680,
-            "y": 100
-          }
-        ]
       }
     ]
   },
@@ -624,25 +486,6 @@
             "map": "Bianco Hills",
             "x": 1465,
             "y": 495
-          }
-        ]
-      },
-      {
-        "name": "Secret Shine",
-        "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
-        ],
-        "sections": [
-          {
-            "name": "100 Coins",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Bianco Hills",
-            "x": 815,
-            "y": 550
           }
         ]
       }
@@ -820,26 +663,6 @@
             "y": 435
           }
         ]
-      },
-      {
-        "name": "Secret Shine",
-        "access_rules": [
-          "progressive_2",
-          "toggle"
-        ],
-        "sections": [
-          {
-            "name": "100 Coins",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Ricco Harbor",
-            "x": 1025,
-            "y": 235
-          }
-        ]
       }
     ]
   },
@@ -1014,26 +837,6 @@
             "map": "Gelato Beach",
             "x": 180,
             "y": 825
-          }
-        ]
-      },
-      {
-        "name": "Secret Shine",
-        "access_rules": [
-          "progressive_2",
-          "toggle"
-        ],
-        "sections": [
-          {
-            "name": "100 Coins",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Gelato Beach",
-            "x": 415,
-            "y": 240
           }
         ]
       },
@@ -1231,26 +1034,6 @@
             "y": 540
           }
         ]
-      },
-      {
-        "name": "Secret Shine",
-        "access_rules": [
-          "progressive_2",
-          "toggle"
-        ],
-        "sections": [
-          {
-            "name": "100 Coins",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Pinna Park",
-            "x": 1390,
-            "y": 1010
-          }
-        ]
       }
     ]
   },
@@ -1431,31 +1214,6 @@
             "y": 1195
           }
         ]
-      },
-      {
-        "name": "Secret Shine",
-        "access_rules": [
-          "progressive_2",
-          "toggle"
-        ],
-        "sections": [
-          {
-            "name": "100 Coins",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Sirena Beach",
-            "x": 850,
-            "y": 815
-          },
-          {
-            "map": "Hotel Delfino",
-            "x": 440,
-            "y": 1120
-          }
-        ]
       }
     ]
   },
@@ -1625,31 +1383,6 @@
             "map": "Under the Waterfall",
             "x": 710,
             "y": 810
-          }
-        ]
-      },
-      {
-        "name": "Secret Shine",
-        "access_rules": [
-          "progressive_2",
-          "toggle"
-        ],
-        "sections": [
-          {
-            "name": "100 Coins",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Noki Bay",
-            "x": 335,
-            "y": 635
-          },
-          {
-            "map": "Noki Bay",
-            "x": 1330,
-            "y": 710
           }
         ]
       },
@@ -1846,26 +1579,6 @@
             "map": "Pianta Village",
             "x": 925,
             "y": 650
-          }
-        ]
-      },
-      {
-        "name": "Secret Shine",
-        "access_rules": [
-          "progressive_2",
-          "toggle"
-        ],
-        "sections": [
-          {
-            "name": "100 Coins",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Pianta Village",
-            "x": 1475,
-            "y": 1370
           }
         ]
       },
