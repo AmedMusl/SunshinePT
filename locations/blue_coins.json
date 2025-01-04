@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Bianco Blue Coins",
+        "chest_unopened_img": "",
+        "chest_opened_img": "",
+        "children": [
+            {
+                "name": "River End",
+                "access_rules": [
+                  ""
+                ],
+                "sections": [
+                  {
+                    "name": "Blue Coin",
+                    "item_count": 1
+                  }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Bianco Hills",
+                        "x": 100,
+                        "y": 100,
+                        "size": 16
+                    }
+                ]
+            }
+        ]
+    }
+]
