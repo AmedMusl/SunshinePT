@@ -1,5 +1,467 @@
 [
   {
+    "name": "Delfino Airstrip",
+    "chest_unopened_img": "images/items/Shine_Sprite.png",
+    "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
+    "children": [
+      {
+        "name": "Episode 1",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "Delfino Airstrip Dilemma",
+            "item_count": 1
+          },
+          {
+            "name": "Red Coin Waterworks",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delfino Plaza",
+            "x": 395,
+            "y": 645
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Delphino Plaza",
+    "chest_unopened_img": "images/items/Shine_Sprite.png",
+    "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
+    "children": [
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Shine Sprite in the Sand",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 1155,
+            "y": 665
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "Clean the West Bell",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 440,
+            "y": 595 
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Super Slide",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 1635,
+            "y": 570
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "The Golden Bird",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 1400,
+            "y": 1035
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Turbo Dash!",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 460,
+            "y": 695
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Lighthouse Roof",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 1230,
+            "y": 525
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Clean the East Bell",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 875,
+            "y": 770
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Shine Gate",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 900,
+            "y": 410
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Pachinko Game",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 610,
+            "y": 530
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Lily Pad Ride",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 1340,
+            "y": 110
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Turbo Track",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 1070,
+            "y": 555
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Red Coin Field",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 570,
+            "y": 75
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Boxing Clever 1",
+            "item_count": 1
+          },
+          {
+            "name": "Boxing Clever 2",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 760,
+            "y": 490
+          },
+          {
+            "map": "Delphino Plaza",
+            "x": 830,
+            "y": 90
+          },
+          {
+            "map": "Delphino Plaza",
+            "x": 855,
+            "y": 55
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "Chuckster",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 580,
+            "y": 455
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "name": "100 Coins",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delphino Plaza",
+            "x": 500,
+            "y": 945
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Boathouse Traders",
+    "chest_unopened_img": "images/items/Shine_Sprite.png",
+    "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
+    "children": [
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "Shine 1",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 2",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 3",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 4",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 5",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 6",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 7",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 8",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 9",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 10",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 11",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 12",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 13",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 14",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 15",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 16",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 17",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 18",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 19",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 20",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 21",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 22",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 23",
+            "item_count": 1
+          },
+          {
+            "name": "Shine 24",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delfino Plaza",
+            "x": 360,
+            "y": 575
+          },
+          {
+            "map": "Delfino Plaza",
+            "x": 680,
+            "y": 100
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Bianco Hills",
     "chest_unopened_img": "images/items/Shine_Sprite.png",
     "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
@@ -1213,4 +1675,242 @@
       }
     ]
   },
+  {
+    "name": "Pianta Village",
+    "chest_unopened_img": "images/items/Shine_Sprite.png",
+    "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
+    "children": [
+      {
+        "name": "Episode 1",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "Chain Chomplets Unchained",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pianta Village",
+            "x": 1550,
+            "y": 1055
+          }
+        ]
+      },
+      {
+        "name": "Episode 2",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "Il Piantissimo's Crazy Climb",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pianta Village",
+            "x": 715,
+            "y": 575
+          }
+        ]
+      },
+      {
+        "name": "Episode 3",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "The Goopy Inferno",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pianta Village",
+            "x": 1425,
+            "y": 1105
+          }
+        ]
+      },
+      {
+        "name": "Episode 4",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "Chain Chomp's Bath",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pianta Village",
+            "x": 1145,
+            "y": 950
+          }
+        ]
+      },
+      {
+        "name": "Episode 5",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "Secret of the Village Underside",
+            "item_count": 1
+          },
+          {
+            "name": "Red Coin Chucksters",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Village Underside",
+            "x": 710,
+            "y": 500
+          }
+        ]
+      },
+      {
+        "name": "Episode 6",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "Pianta's in Need",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pianta Village",
+            "x": 1795,
+            "y": 1855
+          }
+        ]
+      },
+      {
+        "name": "Episode 7",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "Shadow Mario Runs Wild",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pianta Village",
+            "x": 1640,
+            "y": 1570
+          }
+        ]
+      },
+      {
+        "name": "Episode 8",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "Fluff Festival Coin Hunt",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pianta Village",
+            "x": 925,
+            "y": 650
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "100 Coins",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pianta Village",
+            "x": 1475,
+            "y": 1370
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "Soak the Sun",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pianta Village",
+            "x": 1535,
+            "y": 430
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Corona Mountain",
+    "chest_unopened_img": "images/items/Shine_Sprite.png",
+    "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
+    "children": [
+      {
+        "name": "Episode 1",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
+          {
+            "name": "Father and Son Shine!",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Corona Mountain",
+            "x": 1015,
+            "y": 355
+          }
+        ]
+      }
+    ]
+  }
 ]
