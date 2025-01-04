@@ -4,10 +4,10 @@ ENABLE_DEBUG_LOG = true
 -- get current variant
 local variant = Tracker.ActiveVariantUID
 -- check variant info
-IS_ITEMS_ONLY = variant:find("itemsonly")
+-- IS_ITEMS_ONLY = variant:find("itemsonly")
 
 print("-- Super Mario Sunshine Poptracker --")
-print("Loaded variant: ", variant)
+-- print("Loaded variant: ", variant)
 if ENABLE_DEBUG_LOG then
     print("Debug logging is enabled!")
 end
