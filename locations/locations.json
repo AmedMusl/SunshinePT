@@ -5,16 +5,31 @@
     "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
     "children": [
       {
-        "name": "Secret Shine",
+        "name": "Prologue",
         "access_rules": [
-          "progressive_2",
-          "toggle"
+          ""
         ],
         "sections": [
           {
             "name": "Delfino Airstrip Dilemma",
             "item_count": 1
-          },
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delfino Airstrip",
+            "x": 824,
+            "y": 718
+          }
+        ]
+      },
+      {
+        "name": "Epilogue",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
           {
             "name": "Red Coin Waterworks",
             "item_count": 1
@@ -22,14 +37,30 @@
         ],
         "map_locations": [
           {
+            "map": "Delfino Airstrip",
+            "x": 738,
+            "y": 688
+          }
+        ]
+      },
+      {
+        "name": "Boat to Delfino Airstrip",
+        "sections": [
+          {
+            "ref": "Prologue/Delfino Airstrip Dilemma"
+          },
+          {
+            "ref": "Epilogue/Red Coin Waterworks"
+          },
+          {
+            "ref": "Ice Cube/Blue Coin"
+          }
+        ],
+        "map_locations": [
+          {
             "map": "Delfino Plaza",
             "x": 395,
             "y": 645
-          },
-          {
-            "map": "Delfino Airstrip",
-            "x": 824,
-            "y": 718
           }
         ]
       }
