@@ -13,3 +13,52 @@ function has_more_then_n_consumable(n)
     end
     return 0 -- 0 => no access
 end
+function has(item, amount)
+    local count = Tracker:ProviderCountForCode(item)
+    amount = tonumber(amount)
+    if not amount then
+        return count > 0
+    else
+        return count >= amount
+    end
+end
+
+levelaccess = Tracker:FindObjectForCode("level_access")
+bluecoinsenabled = Tracker:FindObjectForCode("blue_coin_sanity")
+coin_shine_enabled = Tracker:FindObjectForCode("coin_shine_enabled")
+
+-- Shine Counter
+function shines()
+    return Tracker:ProviderCountForCode("shine")
+end
+function shinecount(targetshines)
+    return shines() >= tonumber(targetshines)
+end
+function blues()
+    return Tracker:ProviderCountForCode("blue")
+end
+function bluecount(targetblues)
+    return blues() >= tonumber(targetblues)
+end
+
+-- Moves
+function spray()
+    return has("fludd")
+end
+
+function hover()
+    return has("hover")
+end
+
+function turbo()
+   return has("turbo") 
+end
+
+function rocket()
+    return has("rocket")
+end
+
+function yoshi()
+    return has("yoshi")
+end
+

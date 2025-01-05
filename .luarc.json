@@ -10,6 +10,7 @@
         "onItem",
         "onLocation",
         "class",
-        "has_more_then_n_consumable"
+        "has_more_then_n_consumable",
+        "has"
     ]
 }
