@@ -532,7 +532,7 @@
               ]
           },
           {
-              "name": "Wall Top",
+              "name": "Wall Top M",
               "access_rules": [
                 ""
               ],
@@ -3140,7 +3140,7 @@
         ]
       },
       {
-        "name": "Centrtal Light Fixture",
+        "name": "Central Light Fixture",
         "access_rules": [
           ""
         ],
@@ -4822,7 +4822,7 @@
         ]
       },
       {
-        "name": "Lava Ring 07:30",
+        "name": "Lava Ring 05:30",
         "access_rules": [
         ],
         "sections": [
@@ -4841,7 +4841,7 @@
         ]
       },
       {
-        "name": "Lava Ring 07:00",
+        "name": "Lava Ring 05:00",
         "access_rules": [
         ],
         "sections": [
