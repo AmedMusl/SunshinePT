@@ -5,16 +5,31 @@
     "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
     "children": [
       {
-        "name": "Secret Shine",
+        "name": "Prologue",
         "access_rules": [
-          "progressive_2",
-          "toggle"
+          ""
         ],
         "sections": [
           {
             "name": "Delfino Airstrip Dilemma",
             "item_count": 1
-          },
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delfino Airstrip",
+            "x": 824,
+            "y": 718
+          }
+        ]
+      },
+      {
+        "name": "Epilogue",
+        "access_rules": [
+          "progressive_2",
+          "toggle"
+        ],
+        "sections": [
           {
             "name": "Red Coin Waterworks",
             "item_count": 1
@@ -22,14 +37,30 @@
         ],
         "map_locations": [
           {
+            "map": "Delfino Airstrip",
+            "x": 738,
+            "y": 688
+          }
+        ]
+      },
+      {
+        "name": "Boat to Delfino Airstrip",
+        "sections": [
+          {
+            "ref": "Prologue/Delfino Airstrip Dilemma"
+          },
+          {
+            "ref": "Epilogue/Red Coin Waterworks"
+          },
+          {
+            "ref": "Ice Cube/Blue Coin"
+          }
+        ],
+        "map_locations": [
+          {
             "map": "Delfino Plaza",
             "x": 395,
             "y": 645
-          },
-          {
-            "map": "Delfino Airstrip",
-            "x": 824,
-            "y": 718
           }
         ]
       }
@@ -278,7 +309,22 @@
           {
             "name": "Boxing Clever 1",
             "item_count": 1
-          },
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Delfino Plaza",
+            "x": 855,
+            "y": 55
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
           {
             "name": "Boxing Clever 2",
             "item_count": 1
@@ -287,18 +333,29 @@
         "map_locations": [
           {
             "map": "Delfino Plaza",
-            "x": 760,
-            "y": 490
-          },
-          {
-            "map": "Delfino Plaza",
             "x": 830,
             "y": 90
+          }
+        ]
+      },
+      {
+        "name": "Secret Shine",
+        "access_rules": [
+          "progressive_toggle_2, $has_more_then_n_consumable|4"
+        ],
+        "sections": [
+          {
+            "ref": "Secret Shine/Boxing Clever 1"
           },
           {
+            "ref": "Secret Shine/Boxing Clever 2"
+          }
+        ],
+        "map_locations": [
+          {
             "map": "Delfino Plaza",
-            "x": 855,
-            "y": 55
+            "x": 760,
+            "y": 490
           }
         ]
       },
@@ -749,14 +806,36 @@
         ],
         "map_locations": [
           {
-            "map": "Gelato Beach",
-            "x": 520,
-            "y": 460
-          },
-          {
             "map": "Sand Bird",
             "x": 757,
             "y": 42
+          }
+        ]
+      },
+      {
+        "name": "Sand Bird Sky Course",
+        "sections": [
+          {
+            "ref": "Gelato Beach/Episode 4/The Sand Bird is Born"
+          },
+          {
+            "ref": "Sand Bird A/Blue Coin"
+          },
+          {
+            "ref": "Sand Bird B/Blue Coin"
+          },
+          {
+            "ref": "Sand Bird C/Blue Coin"
+          },
+          {
+            "ref": "Sand Bird D/Blue Coin"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Gelato Beach",
+            "x": 520,
+            "y": 460
           }
         ]
       },
@@ -1378,6 +1457,36 @@
             "map": "Under the Waterfall",
             "x": 710,
             "y": 810
+          }
+        ]
+      },
+      {
+        "name": "Mare Ruins",
+        "sections": [
+          {
+            "ref": "Noki Bay/Episode 4/Eely-Mouth's Dentist"
+          },
+          {
+            "ref": "Noki Bay/Episode 8/The Red Coin Fish"
+          },
+          {
+            "ref": "Front Pillar/Blue Coin"
+          },
+          {
+            "ref": "Right Pillar/Blue Coin"
+          },
+          {
+            "ref": "Close Left Pillar/Blue Coin"
+          },
+          {
+            "ref": "Far Left Pillar/Blue Coin"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Noki Bay",
+            "x": 1249,
+            "y": 877
           }
         ]
       },
