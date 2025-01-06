@@ -4,11 +4,12 @@
 -- to reference an item use it's code
 -- here are the SM locations as an example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/scripts/autotracking/location_mapping.lua
 LOCATION_MAPPING = {
-	[523086] = {"@Delfino Airstrip/Delfino Airstrip Dilemma"},
+	-- Delfino Prologue
+	[523086] = {"@Prologue/Delfino Airstrip Dilemma"},
 	[523117] = {"@Delfino Plaza/Shine Sprite in the Sand"},
 	[523096] = {"@Delfino Plaza/Clean the West Bell"},
 	[523090] = {"@Delfino Plaza/Super Slide"},
-	[523118] = {"@Delfino Plaza/The Gold Bird"}, 
+	[523118] = {"@Delfino Plaza/The Golden Bird"}, 
 	[523116] = {"@Delfino Plaza/Turbo Dash!"},
 	[523093] = {"@Delfino Plaza/Lighthouse Roof"},
 	[523097] = {"@Delfino Plaza/Clean the East Bell"},
@@ -40,6 +41,7 @@ LOCATION_MAPPING = {
 	[523129] = {"@Delfino Plaza Blue Coins/Durian Basket"},
 	[523130] = {"@Delfino Plaza Blue Coins/Banana Basket"},
 	[523131] = {"@Delfino Plaza Blue Coins/Coconut Basket"},
+	-- Bianco Hills
 	[523000] = {"@Bianco Hills/Road to the Big Windmill"},
 	[523001] = {"@Bianco Hills/Down with Petey Piranha!"},
 	[523100] = {"@100 Coin Shine Sprites/100 Coins/Bianco Hills"},
@@ -69,8 +71,8 @@ LOCATION_MAPPING = {
 	[523004] = {"@Bianco Hills/Petey Piranha Strikes Back"},
 	[523177] = {"@Bianco Hills Blue Coins/Wall Tower Pianta"},
 	[523185] = {"@Bianco Hills Blue Coins/Platforms Cross"},
-	[523005] = {"@Bianco Hills/The Secret of the Dirty Lake"},
-	[523009] = {"@Bianco Hills/Red Coins of the Dirty Lake"},
+	[523005] = {"@Bianco Hills/Secret of the Dirty Lake"},
+	[523009] = {"@Bianco Hills/The Red Coins of the Dirty Lake"},
 	[523179] = {"@Bianco Hills Blue Coins/Petey Pillar"},
 	[523181] = {"@Bianco Hills Blue Coins/Underwater Left"},
 	[523182] = {"@Bianco Hills Blue Coins/Blue Bird"},
@@ -81,6 +83,7 @@ LOCATION_MAPPING = {
 	[523007] = {"@Bianco Hills/The Red Coins of the Lake"},
 	[523176] = {"@Bianco Hills Blue Coins/Beehive"},
 	[523196] = {"@Bianco Hills Blue Coins/Blue Butterfly"},
+	-- Ricco Harbor
 	[523101] = {"@100 Coin Shine Sprites/100 Coins/Ricco Harbor"},
 	[523221] = {"@Ricco Harbor Blue Coins/Tower Wall"},
 	[523222] = {"@Ricco Harbor Blue Coins/Outer Ship M"},
@@ -105,7 +108,7 @@ LOCATION_MAPPING = {
 	[523246] = {"@Ricco Harbor Blue Coins/Inner Ship M"},
 	[523249] = {"@Ricco Harbor Blue Coins/Yellow Submarine"},
 	[523011] = {"@Ricco Harbor/Blooper Surfing Safari"},
-	[523019] = {"@Ricco Harbor/Blooper-Surfing Sequel"},
+	[523019] = {"@Ricco Harbor/Blooper Surfing Sequel"},
 	[523236] = {"@Ricco Harbor Blue Coins/Blooper Underground Entrance"},
 	[523012] = {"@Ricco Harbor/The Caged Shine Sprite"},
 	[523233] = {"@Ricco Harbor Blue Coins/Tower Rocket"},
@@ -122,6 +125,7 @@ LOCATION_MAPPING = {
 	[523225] = {"@Ricco Harbor Blue Coins/Wall Klamber"},
 	[523242] = {"@Ricco Harbor Blue Coins/High Platform M"},
 	[523245] = {"@Ricco Harbor Blue Coins/Fish Basket"},
+	-- Gelato Beach
 	[523020] = {"@Gelato Beach/Dune Bud Sand Castle Secret"},
 	[523021] = {"@Gelato Beach/Mirror Madness! Tilt, Slam, Bam!"},
 	[523022] = {"@Gelato Beach/Wiggler Ahoy! Full Steam Ahead!"},
@@ -163,6 +167,7 @@ LOCATION_MAPPING = {
 	[523273] = {"@Gelato Beach Blue Coins/Blue Cataquack"},
 	[523279] = {"@Gelato Beach Blue Coins/Yellow Goo Dune Bud"},
 	[523295] = {"@Gelato Beach Blue Coins/Beehive/Blue Coin"},
+	-- Pinna Park
 	[523030] = {"@Pinna Park/Mecha-Bowser Appears!"},
 	[523032] = {"@Pinna Park/Red Coins of the Pirate Ships"},
 	[523033] = {"@Pinna Park/The Wilted Sunflowers"},
@@ -204,6 +209,7 @@ LOCATION_MAPPING = {
 	[523035] = {"@Pinna Park/The Yoshi-Go-Round's Secret"},
 	[523039] = {"@Pinna Park/Red Coins in the Yoshi-Go-Round"},
 	[523335] = {"@Pinna Park Blue Coins/Park Blue Butterfly"},
+	-- Sirena Beach
 	[523040] = {"@Sirena Beach/The Manta Storm"},
 	[523380] = {"@Sirena Beach Blue Coins/White Painting"},
 	[523385] = {"@Sirena Beach Blue Coins/Attic Boo"},
@@ -245,6 +251,7 @@ LOCATION_MAPPING = {
 	[523395] = {"@Sirena Beach Blue Coins/Attic M"}, 
 	[523396] = {"@Sirena Beach Blue Coins/Second Floor X"}, 
 	[523397] = {"@Sirena Beach Blue Coins/First Floor X"}, 
+	-- Noki Bay
 	[523050] = {"@Noki Bay/Uncork the Waterfall"}, 
 	[523051] = {"@Noki Bay/The Boss of Tricky Ruins"}, 
 	[523052] = {"@Noki Bay/Red Coins in a Bottle"}, 
@@ -286,6 +293,7 @@ LOCATION_MAPPING = {
 	[523499] = {"@Noki Bay Blue Coins/Far Left Pillar"}, 
 	[523494] = {"@Noki Bay Blue Coins/Spawn O"}, 
 	[523498] = {"@Noki Bay Blue Coins/Boathouse O"}, 
+	-- Pianta Village
 	[523060] = {"@Pianta Village/Chain Chomplets Unchained"}, 
 	[523065] = {"@Pianta Village/Il Piantissimo's Crazy Climb"}, 
 	[523062] = {"@Pianta Village/The Goopy Inferno"}, 
@@ -327,6 +335,7 @@ LOCATION_MAPPING = {
 	[523427] = {"@Pianta Village Blue Coins/Pianta in Need G"}, 
 	[523428] = {"@Pianta Village Blue Coins/Pianta in Need H"}, 
 	[523441] = {"@Pianta Village Blue Coins/Blue Bird"}, 
+	-- Corona Mountain
 	[523540] = {"@Corona Mountain Blue Coins/Platform"}, 
 	[523541] = {"@Corona Mountain Blue Coins/Lava Ring 02:00"}, 
 	[523542] = {"@Corona Mountain Blue Coins/Lava Ring 09:00"}, 
@@ -337,7 +346,8 @@ LOCATION_MAPPING = {
 	[523547] = {"@Corona Mountain Blue Coins/Lava Ring 12:00"}, 
 	[523548] = {"@Corona Mountain Blue Coins/Lava Ring 03:00"}, 
 	[523549] = {"@Corona Mountain Blue Coins/Lava Ring 05:30"}, 
-	[523088] = {"@Delfino Airstrip/Red Coin Waterworks"},
+	-- Epilogue/Boathouse
+	[523088] = {"@Epilogue/Red Coin Waterworks"},
 	[523120] = {"@Delfino Plaza Blue Coins/Ice Cube"},
 	[523070] = {"@Trade 10 Blue Coins/Shine 1"}, 
 	[523071] = {"@Trade 10 Blue Coins/Shine 2"}, 
