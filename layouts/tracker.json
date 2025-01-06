@@ -30,6 +30,27 @@
             },
             {
                 "type": "dock",
+                "dock": "left",
+                "dropshadow": true,
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Settings",
+                        "dock": "bottom",
+                        "margin": "0,0,3,0",
+                        "content": [
+                            {
+                                "type": "layout",
+                                "h_alignment": "center",
+                                "v_alignment": "center",
+                                "key": "settings_grid"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "dock",
                 "background": "#000000",
                 "content": [
                     {

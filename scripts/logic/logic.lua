@@ -62,3 +62,6 @@ function yoshi()
     return has("yoshi")
 end
 
+function splasher()
+    return has("spray") or has("hover")
+end

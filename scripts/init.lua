@@ -16,7 +16,7 @@ end
 ScriptHost:LoadScript("scripts/utils.lua")
 
 -- Logic
--- ScriptHost:LoadScript("scripts/logic/logic.lua")
+ScriptHost:LoadScript("scripts/logic/logic.lua")
 
 -- Custom Items
 ScriptHost:LoadScript("scripts/custom_items/class.lua")
@@ -25,6 +25,7 @@ ScriptHost:LoadScript("scripts/custom_items/progressiveTogglePlusWrapper.lua")
 
 -- Items
 Tracker:AddItems("items/items.json")
+Tracker:AddItems("items/settings.json")
 
 -- Maps
 Tracker:AddMaps("maps/maps.json")
@@ -39,6 +40,7 @@ Tracker:AddLayouts("layouts/items.json")
 Tracker:AddLayouts("layouts/maps.json")
 Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/broadcast.json")
+Tracker:AddLayouts("layouts/settings.json")
 
 Tracker:AddLayouts("layouts/maps/airstrip.json")
 Tracker:AddLayouts("layouts/maps/plaza.json")
