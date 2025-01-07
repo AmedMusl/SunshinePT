@@ -84,6 +84,7 @@
     {
         "name": "Yoshi Mode",
         "type": "progressive",
+        "codes": "yoshi_start",
         "loop": false,
         "allow_disabled": false,
         "stages": [
