@@ -32,82 +32,46 @@ function dump_table(o, depth)
 end
 
 function onClear(slot_data)
-    for k, v in pairs(LOCATION_MAPPING) do
-        local loc_list = LOCATION_MAPPING[k]
-        for i, loc in ipairs(loc_list) do
-            local obj = Tracker:FindObjectForCode(loc)
-            if obj then
-                if loc:sub(1, 1) == "@" then
-                    obj.AvailableChestCount = obj.ChestCount
-                else
-                    obj.Active = false
-                end
-            end
-        end
-    end
-    
+    SLOT_DATA = slot_data
+    CUR_INDEX = -1
+    print(dump_table(slot_data))
+    -- for k, v in pairs(LOCATION_MAPPING) do
+    --     local loc_list = LOCATION_MAPPING[k]
+    --     for i, loc in ipairs(loc_list) do
+    --         local obj = Tracker:FindObjectForCode(loc)
+    --         if obj then
+    --             if loc:sub(1, 1) == "@" then
+    --                 obj.AvailableChestCount = obj.ChestCount
+    --             else
+    --                 obj.Active = false
+    --             end
+    --         end
+    --     end
+    -- end
 
-    -- sanities
-    if slot_data['hundredcoins'] then
-        local coinsanity = Tracker:FindObjectForCode("coin_shine_enabled")
-        coinsanity.Active = (slot_data['hundredcoins'])
-    end
-
-    if slot_data['bluecoinsanity'] then
+    if slot_data['blue_coin_sanity'] then
         local bluesanity = Tracker:FindObjectForCode("blues")
-        bluesanity.Active = (slot_data['bluecoinsanity'])
+        bluesanity.CurrentStage = (slot_data['blue_coin_sanity'])
     end
 
-    if slot_data['boatcoinsonly'] then
-        local boat = Tracker:FindObjectForCode("boathouse")
-        boat.Active = (slot_data['boatcoinsonly'])
+    if slot_data['starting_nozzle'] then
+        local nozzletype = Tracker:FindObjectForCode("nozzlestart")
+        nozzletype.CurrentStage = (slot_data['starting_nozzle'])
     end
 
-    if slot_data['character_sanity'] then
-        local charsanity = Tracker:FindObjectForCode("charactersanity_enabled")
-        charsanity.Active = (slot_data['character_sanity'])
+    if slot_data['corona_mountain_shines'] then
+        local coronashines = Tracker:FindObjectForCode('coronashines')
+        coronashines.AcquiredCount = (slot_data['corona_mountain_shines'])
     end
 
-    -- objective percentages
-    if slot_data['objective_percentage'] then
-        local obj_perc = Tracker:FindObjectForCode("objective_percentage")
-        obj_perc.AcquiredCount = (slot_data['objective_percentage'])
+    if slot_data['yoshi_mode'] then
+        local yoshster = Tracker:FindObjectForCode('yoshistart')
+        yoshster.CurrentStage = (slot_data['yoshi_mode'])
     end
 
-    if slot_data['objective_item_percentage'] then
-        local obj_item_perc = Tracker:FindObjectForCode("objective_item_percentage")
-        obj_item_perc.AcquiredCount = (slot_data['objective_item_percentage'])
-    end
-
-    -- wincon
-    if slot_data['requires_emeralds'] then
-        local require_emeralds = Tracker:FindObjectForCode("goal_emeralds")
-        require_emeralds.Active = (slot_data['requires_emeralds'])
-    end
-
-    if slot_data['required_mission_tokens'] then
-        local req_token_mission = Tracker:FindObjectForCode("goal_missions")
-        req_token_mission.AcquiredCount = (slot_data['required_mission_tokens'])
-    end
-
-    if slot_data['required_objective_tokens'] then
-        local req_token_objective = Tracker:FindObjectForCode("goal_objective_missions")
-        req_token_objective.AcquiredCount = (slot_data['required_objective_tokens'])
-    end
-
-    if slot_data['required_hero_tokens'] then
-        local req_token_hero = Tracker:FindObjectForCode("goal_hero_missions")
-        req_token_hero.AcquiredCount = (slot_data['required_hero_tokens'])
-    end
-
-    if slot_data['required_dark_tokens'] then
-        local req_token_dark = Tracker:FindObjectForCode("goal_dark_missions")
-        req_token_dark.AcquiredCount = (slot_data['required_dark_tokens'])
-    end
-
-    if slot_data['required_final_tokens'] then
-        local req_token_final = Tracker:FindObjectForCode("goal_final_missions")
-        req_token_final.AcquiredCount = (slot_data['required_final_tokens'])
+    if slot_data['ticket_mode'] then
+        local ticketing = Tracker:FindObjectForCode("progression")
+        ticketing.CurrentStage = (slot_data['ticket_mode'])
     end
 end
 
