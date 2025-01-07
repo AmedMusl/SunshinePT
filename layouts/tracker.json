@@ -10,7 +10,7 @@
                 "content": [
                     {
                         "type": "dock",
-                        "dock": "bottom",
+                        "dock": "top",
                         "content": [
                             {
                                 "type": "group",
@@ -25,25 +25,24 @@
                                 }
                             }
                         ]
-                    }
-                ]
-            },
-            {
-                "type": "dock",
-                "dock": "left",
-                "dropshadow": true,
-                "content": [
+                    },
                     {
-                        "type": "group",
-                        "header": "Settings",
-                        "dock": "bottom",
-                        "margin": "0,0,3,0",
+                        "type": "dock",
+                        "dock": "left",
+                        "dropshadow": true,
                         "content": [
                             {
-                                "type": "layout",
-                                "h_alignment": "center",
-                                "v_alignment": "center",
-                                "key": "settings_grid"
+                                "type": "group",
+                                "header": "Settings",
+                                "margin": "0,0,3,0",
+                                "content": [
+                                    {
+                                        "type": "layout",
+                                        "h_alignment": "center",
+                                        "v_alignment": "center",
+                                        "key": "settings_grid"
+                                    }
+                                ]
                             }
                         ]
                     }
