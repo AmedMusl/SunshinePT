@@ -34,6 +34,7 @@ Tracker:AddMaps("maps/maps.json")
 Tracker:AddLocations("locations/locations.json")
 Tracker:AddLocations("locations/blue_coins.json")
 Tracker:AddLocations("locations/coin_shines.json")
+Tracker:AddLocations("locations/totals_screen.json")
 
 -- Layout
 Tracker:AddLayouts("layouts/items.json")
@@ -42,6 +43,7 @@ Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 Tracker:AddLayouts("layouts/settings.json")
 
+Tracker:AddLayouts("layouts/maps/totals.json")
 Tracker:AddLayouts("layouts/maps/plaza.json")
 Tracker:AddLayouts("layouts/maps/bianco.json")
 Tracker:AddLayouts("layouts/maps/ricco.json")

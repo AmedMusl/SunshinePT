@@ -6,6 +6,15 @@
         "type": "tabbed",
         "tabs": [
           {
+          "title": "Overview",
+          "content": {
+            "type": "layout",
+            "orientation": "horizontal",
+            "style": "wrap",
+            "key": "totals"
+          }
+        },
+          {
             "title": "Delfino Plaza",
             "content": {
               "type": "layout",

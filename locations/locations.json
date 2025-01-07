@@ -42,27 +42,6 @@
             "y": 718
           }
         ]
-      },
-      {
-        "name": "Boat to Delfino Airstrip",
-        "sections": [
-          {
-            "ref": "Prologue/Delfino Airstrip Dilemma"
-          },
-          {
-            "ref": "Epilogue/Red Coin Waterworks"
-          },
-          {
-            "ref": "Ice Cube/Blue Coin"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Delfino Plaza",
-            "x": 395,
-            "y": 645
-          }
-        ]
       }
     ]
   },
