@@ -309,46 +309,10 @@
           {
             "name": "Boxing Clever 1",
             "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Delfino Plaza",
-            "x": 855,
-            "y": 55
-          }
-        ]
-      },
-      {
-        "name": "Secret Shine",
-        "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
-        ],
-        "sections": [
+          },
           {
             "name": "Boxing Clever 2",
             "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Delfino Plaza",
-            "x": 830,
-            "y": 90
-          }
-        ]
-      },
-      {
-        "name": "Secret Shine",
-        "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
-        ],
-        "sections": [
-          {
-            "ref": "Secret Shine/Boxing Clever 1"
-          },
-          {
-            "ref": "Secret Shine/Boxing Clever 2"
           }
         ],
         "map_locations": [

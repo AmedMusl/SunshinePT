@@ -1986,7 +1986,7 @@
         ]
       },
       {
-        "name": "Close Underwater",
+        "name": "Blue Fish School",
         "access_rules": [
           ""
         ],
@@ -1999,14 +1999,14 @@
         "map_locations": [
           {
             "map": "Gelato Beach",
-            "x": 1098,
-            "y": 971,
+            "x": 1209,
+            "y": 978,
             "size": 16
           }
         ]
       },
       {
-        "name": "Blue Fish School",
+        "name": "Close Underwater",
         "access_rules": [
           ""
         ],
@@ -2880,27 +2880,7 @@
         ]
       },
       {
-        "name": "Episode 6 Left Female Noki",
-        "access_rules": [
-          ""
-        ],
-        "sections": [
-          {
-            "name": "Blue Coin",
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Sirena Beach",
-            "x": 627,
-            "y": 727,
-            "size": 16
-          }
-        ]
-      },
-      {
-        "name": "Episode 6 Right Female Noki",
+        "name": "Episode 6 Female Noki",
         "access_rules": [
           ""
         ],
@@ -3036,6 +3016,12 @@
             "x": 1170,
             "y": 851,
             "size": 16
+          },
+          {
+            "map": "Sirena Beach",
+            "x": 647,
+            "y": 736,
+            "size": 16
           }
         ]
       },
@@ -3055,6 +3041,12 @@
             "map": "Sirena Beach",
             "x": 1193,
             "y": 859,
+            "size": 16
+          },
+          {
+            "map": "Sirena Beach",
+            "x": 674,
+            "y": 723,
             "size": 16
           }
         ]
@@ -4975,11 +4967,6 @@
             "map": "Delfino Plaza",
             "x": 360,
             "y": 575
-          },
-          {
-            "map": "Delfino Plaza",
-            "x": 680,
-            "y": 100
           }
         ]
       }
