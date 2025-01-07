@@ -1,5 +1,5 @@
 {
-  "pinna": {
+  "totals": {
     "type": "container",
     "content": [
       {
@@ -10,7 +10,7 @@
           {
             "type": "map",
             "maps": [
-              "Pinna Park"
+              "Overview"
             ]
           }
         ]
@@ -18,4 +18,3 @@
     ]
   }
 }
-  

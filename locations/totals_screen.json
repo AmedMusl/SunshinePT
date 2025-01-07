@@ -1,0 +1,309 @@
+[
+    {
+        "name": "Totals Screen",
+        "chest_unopened_img": "images/items/Shine_Sprite.png",
+        "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
+        "children": [
+            {
+                "name": "Bianco Hills - Episode 1",
+                "sections": [
+                    {
+                        "ref": "Bianco Hills/Episode 1/Road to the Big Windmill"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 171,
+                        "y": 77
+                    }
+                ]
+            },
+            {
+                "name": "Bianco Hills - Episode 2",
+                "sections": [
+                    {
+                        "ref": "Bianco Hills/Episode 2/Down with Petey Piranha!"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 202,
+                        "y": 77
+                    }
+                ]
+            },
+            {
+                "name": "Bianco Hills - Episode 3",
+                "sections": [
+                    {
+                        "ref": "Bianco Hills/Episode 3/The Hillside Cave Secret"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 233,
+                        "y": 77
+                    }
+                ]
+            },
+            {
+                "name": "Bianco Hills - Episode 4",
+                "sections": [
+                    {
+                        "ref": "Bianco Hills/Episode 4/Red Coins of Windmill Village"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 264,
+                        "y": 77
+                    }
+                ]
+            },
+            {
+                "name": "Bianco Hills - Episode 5",
+                "sections": [
+                    {
+                        "ref": "Bianco Hills/Episode 5/Petey Piranha Strikes Back"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 295,
+                        "y": 77
+                    }
+                ]
+            },
+            {
+                "name": "Bianco Hills - Episode 6",
+                "sections": [
+                    {
+                        "ref": "Bianco Hills/Episode 6/Secret of the Dirty Lake"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 326,
+                        "y": 77
+                    }
+                ]
+            },
+            {
+                "name": "Bianco Hills - Episode 7",
+                "sections": [
+                    {
+                        "ref": "Bianco Hills/Episode 7/Shadow Mario on the Loose"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 357,
+                        "y": 77
+                    }
+                ]
+            },
+            {
+                "name": "Bianco Hills - Episode 8",
+                "sections": [
+                    {
+                        "ref": "Bianco Hills/Episode 8/The Red Coins of the Lake"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 388,
+                        "y": 77
+                    }
+                ]
+            },
+            {
+                "name": "Bianco Hills - Secret Shine 1",
+                "sections": [
+                    {
+                        "ref": "Bianco Hills/Episode 3/Red Coins of the Hillside Cave"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 419,
+                        "y": 77
+                    }
+                ]
+            },
+            {
+                "name": "Bianco Hills - Secret Shine 2",
+                "sections": [
+                    {
+                        "ref": "Bianco Hills/Episode 6/Red Coins of the Dirty Lake"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 450,
+                        "y": 77
+                    }
+                ]
+            },
+            {
+                "name": "Ricco Harbor - Episode 1",
+                "sections": [
+                    {
+                        "ref": "Ricco Harbor/Episode 1/Gooper Blooper Breaks Out"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 171,
+                        "y": 116
+                    }
+                ]
+            },
+            {
+                "name": "Bianco Hills - 100 Coin Shine",
+                "sections": [
+                    {
+                        "ref": "Bianco Hills 100 Coins/Secret Shine/100 Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 588,
+                        "y": 77
+                    }
+                ]
+            },
+            {
+                "name": "Ricco Harbor - 100 Coin Shine",
+                "sections": [
+                    {
+                        "ref": "Ricco Harbor 100 Coins/Secret Shine/100 Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 588,
+                        "y": 116
+                    }
+                ]
+            },
+            {
+                "name": "Gelato Beach - 100 Coin Shine",
+                "sections": [
+                    {
+                        "ref": "Gelato Beach 100 Coins/Secret Shine/100 Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 588,
+                        "y": 154
+                    }
+                ]
+            },
+            {
+                "name": "Pinna Park - 100 Coin Shine",
+                "sections": [
+                    {
+                        "ref": "Pinna Park 100 Coins/Secret Shine/100 Coins"
+                }   
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 588,
+                        "y": 192
+                    }
+                ]
+            },
+            {
+                "name": "Sirena Beach - 100 Coin Shine",
+                "sections": [
+                    {
+                        "ref": "Sirena Beach 100 Coins/Secret Shine/100 Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 588,
+                        "y": 230
+                    }
+                ]
+            },
+            {
+                "name": "Noki Bay - 100 Coin Shine",
+                "sections": [
+                    {
+                        "ref": "Noki Bay 100 Coins/Secret Shine/100 Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 588,
+                        "y": 268
+                    }
+                ]
+            },
+            {
+                "name": "Pianta Village - 100 Coin Shine",
+                "sections": [
+                    {
+                        "ref": "Pianta Village 100 Coins/Secret Shine/100 Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 588,
+                        "y": 307
+                    }
+                ]
+            },
+            {
+                "name": "Delfino Plaza - 100 Coin Shine",
+                "sections": [
+                    {
+                        "ref": "Delfino Plaza 100 Coins/Secret Shine/100 Coins"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 588,
+                        "y": 346
+                    }
+                ]
+            },
+            {
+                "name": "Delfino Plaza - h",
+                "sections": [
+                    {
+                        "ref": "Delfino Plaza Blue Coins/Shine Gate Sewer/Blue Coin"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overview",
+                        "x": 200,
+                        "y": 346
+                    }
+                ]
+            }
+        ]
+    }
+]

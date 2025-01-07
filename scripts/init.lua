@@ -34,6 +34,7 @@ Tracker:AddMaps("maps/maps.json")
 Tracker:AddLocations("locations/locations.json")
 Tracker:AddLocations("locations/blue_coins.json")
 Tracker:AddLocations("locations/coin_shines.json")
+Tracker:AddLocations("locations/totals_screen.json")
 
 -- Layout
 Tracker:AddLayouts("layouts/items.json")
@@ -42,19 +43,15 @@ Tracker:AddLayouts("layouts/tracker.json")
 Tracker:AddLayouts("layouts/broadcast.json")
 Tracker:AddLayouts("layouts/settings.json")
 
-Tracker:AddLayouts("layouts/maps/airstrip.json")
+Tracker:AddLayouts("layouts/maps/totals.json")
 Tracker:AddLayouts("layouts/maps/plaza.json")
 Tracker:AddLayouts("layouts/maps/bianco.json")
 Tracker:AddLayouts("layouts/maps/ricco.json")
 Tracker:AddLayouts("layouts/maps/gelato.json")
-Tracker:AddLayouts("layouts/maps/sandbird.json")
 Tracker:AddLayouts("layouts/maps/pinna.json")
 Tracker:AddLayouts("layouts/maps/sirena.json")
-Tracker:AddLayouts("layouts/maps/hotel.json")
 Tracker:AddLayouts("layouts/maps/noki.json")
-Tracker:AddLayouts("layouts/maps/mare.json")
 Tracker:AddLayouts("layouts/maps/pianta.json")
-Tracker:AddLayouts("layouts/maps/underside.json")
 Tracker:AddLayouts("layouts/maps/corona.json")
 
 -- AutoTracking for Poptracker

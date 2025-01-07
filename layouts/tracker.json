@@ -15,7 +15,6 @@
                             {
                                 "type": "group",
                                 "header": "Items",
-                                "dock": "left",
                                 "margin": "0,0,3,0",
                                 "content": {
                                     "type": "layout",

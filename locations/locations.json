@@ -42,27 +42,6 @@
             "y": 718
           }
         ]
-      },
-      {
-        "name": "Boat to Delfino Airstrip",
-        "sections": [
-          {
-            "ref": "Prologue/Delfino Airstrip Dilemma"
-          },
-          {
-            "ref": "Epilogue/Red Coin Waterworks"
-          },
-          {
-            "ref": "Ice Cube/Blue Coin"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Delfino Plaza",
-            "x": 395,
-            "y": 645
-          }
-        ]
       }
     ]
   },
@@ -1425,36 +1404,6 @@
         ]
       },
       {
-        "name": "Under the Waterfall",
-        "sections": [
-          {
-            "ref": "Noki Bay/Episode 4/Eely-Mouth's Dentist"
-          },
-          {
-            "ref": "Noki Bay/Episode 8/The Red Coin Fish"
-          },
-          {
-            "ref": "Front Pillar/Blue Coin"
-          },
-          {
-            "ref": "Right Pillar/Blue Coin"
-          },
-          {
-            "ref": "Close Left Pillar/Blue Coin"
-          },
-          {
-            "ref": "Far Left Pillar/Blue Coin"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Noki Bay",
-            "x": 1249,
-            "y": 877
-          }
-        ]
-      },
-      {
         "name": "Secret Shine",
         "access_rules": [
           "progressive_2",
@@ -1667,27 +1616,6 @@
             "map": "Pianta Village",
             "x": 1535,
             "y": 430
-          }
-        ]
-      },
-      {
-        "name": "Village Underside",
-        "sections": [
-          {
-            "ref": "Pianta Village/Episode 5/Secret of the Village Underside"
-          },
-          {
-            "ref": "Pianta Village/Episode 5/Red Coin Chucksters"
-          },
-          {
-            "ref": "Underside M/Blue Coin"
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Pianta Village",
-            "x": 1429,
-            "y": 1742
           }
         ]
       }

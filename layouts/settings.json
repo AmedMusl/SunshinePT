@@ -1,23 +1,18 @@
 {
     "settings_grid": {
-        "type": "array",
+        "type": "container",
         "orientation": "vertical",
         "margin": "0,0",
         "content": [
             {
-                "type": "array",
-                "orientation": "vertical",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "2, 2",
-                        "h_alignment": "left",
-                        "rows": [
-                            ["progression", "coin_shines_enabled", "blues"],
-                            ["coronashines", "blue_coin_maximum", "boat_maximum", "nozzlestart", "yoshi_start"]
-                        ]
-                    }
+                "type": "itemgrid",
+                "item_size": 60,
+                "item_margin": "2, 2",
+                "h_alignment": "center",
+                "rows": [
+                    ["progression", "coin_shines_enabled", "blues"],
+                    ["coronashines", "blue_coin_maximum", "boat_maximum"],
+                    ["nozzlestart", "yoshi_start"]
                 ]
             }
         ]

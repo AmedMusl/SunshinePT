@@ -1,5 +1,11 @@
 [
   {
+  "name": "Overview",
+  "location_size": 14,
+  "location_border_thickness": 2,
+  "img": "images/maps/Overview.png"
+  },
+  {
   "name": "Delfino Airstrip",
   "location_size": 24,
   "location_border_thickness": 2,
