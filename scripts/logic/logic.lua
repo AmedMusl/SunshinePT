@@ -23,7 +23,7 @@ function has(item, amount)
     end
 end
 
-levelaccess = Tracker:FindObjectForCode("level_access")
+levelaccess = Tracker:FindObjectForCode("progression")
 bluecoinsenabled = Tracker:FindObjectForCode("blue_coin_sanity")
 coin_shine_enabled = Tracker:FindObjectForCode("coin_shine_enabled")
 
