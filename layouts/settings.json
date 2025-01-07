@@ -11,7 +11,7 @@
                 "h_alignment": "center",
                 "rows": [
                     ["progression", "coin_shines_enabled", "blues"],
-                    ["coronashines", "blue_coin_maximum", "boat_maximum"],
+                    ["coronashines", "boat_maximum"],
                     ["nozzlestart", "yoshi_start"]
                 ]
             }

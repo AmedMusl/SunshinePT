@@ -32,22 +32,19 @@ function dump_table(o, depth)
 end
 
 function onClear(slot_data)
-    SLOT_DATA = slot_data
-    CUR_INDEX = -1
-    print(dump_table(slot_data))
-    -- for k, v in pairs(LOCATION_MAPPING) do
-    --     local loc_list = LOCATION_MAPPING[k]
-    --     for i, loc in ipairs(loc_list) do
-    --         local obj = Tracker:FindObjectForCode(loc)
-    --         if obj then
-    --             if loc:sub(1, 1) == "@" then
-    --                 obj.AvailableChestCount = obj.ChestCount
-    --             else
-    --                 obj.Active = false
-    --             end
-    --         end
-    --     end
-    -- end
+    for k, v in pairs(LOCATION_MAPPING) do
+        local loc_list = LOCATION_MAPPING[k]
+        for i, loc in ipairs(loc_list) do
+            local obj = Tracker:FindObjectForCode(loc)
+            if obj then
+                if loc:sub(1, 1) == "@" then
+                    obj.AvailableChestCount = obj.ChestCount
+                else
+                    obj.Active = false
+                end
+            end
+        end
+    end
 
     if slot_data['blue_coin_sanity'] then
         local bluesanity = Tracker:FindObjectForCode("blues")
@@ -113,6 +110,7 @@ function onLocation(location_id, location_name)
         if not loc then
             return
         end
+        print(loc)
         local obj = Tracker:FindObjectForCode(loc)
         if obj then
             if loc:sub(1, 1) == "@" then
