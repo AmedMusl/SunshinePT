@@ -1461,7 +1461,7 @@
         ]
       },
       {
-        "name": "Mare Ruins",
+        "name": "Under the Waterfall",
         "sections": [
           {
             "ref": "Noki Bay/Episode 4/Eely-Mouth's Dentist"
@@ -1703,6 +1703,27 @@
             "map": "Pianta Village",
             "x": 1535,
             "y": 430
+          }
+        ]
+      },
+      {
+        "name": "Village Underside",
+        "sections": [
+          {
+            "ref": "Pianta Village/Episode 5/Secret of the Village Underside"
+          },
+          {
+            "ref": "Pianta Village/Episode 5/Red Coin Chucksters"
+          },
+          {
+            "ref": "Underside M/Blue Coin"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Pianta Village",
+            "x": 1429,
+            "y": 1742
           }
         ]
       }
