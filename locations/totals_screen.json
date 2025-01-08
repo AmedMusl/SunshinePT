@@ -288,21 +288,6 @@
                         "y": 346
                     }
                 ]
-            },
-            {
-                "name": "Delfino Plaza - h",
-                "sections": [
-                    {
-                        "ref": "Delfino Plaza Blue Coins/Shine Gate Sewer/Blue Coin"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overview",
-                        "x": 200,
-                        "y": 346
-                    }
-                ]
             }
         ]
     }

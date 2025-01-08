@@ -7,7 +7,7 @@
       {
         "name": "Turbo Pillar",
         "access_rules": [
-          ""
+          "$turbo"
         ],
         "sections": [
           {
@@ -27,7 +27,7 @@
       {
         "name": "Burning Pianta",
         "access_rules": [
-          ""
+          "$yoshi", "$spray"
         ],
         "sections": [
           {
@@ -414,7 +414,7 @@
           {
               "name": "Windmill M",
               "access_rules": [
-                ""
+                "$spray"
               ],
               "sections": [
                 {
@@ -434,7 +434,7 @@
           {
               "name": "Windmill Pillar",
               "access_rules": [
-                ""
+                "$splasher"
               ],
               "sections": [
                 {
@@ -454,7 +454,7 @@
           {
               "name": "Towers House M",
               "access_rules": [
-                ""
+                "$spray"
               ],
               "sections": [
                 {
@@ -474,7 +474,7 @@
           {
               "name": "Balcony",
               "access_rules": [
-                ""
+                "$hover"
               ],
               "sections": [
                 {
@@ -514,7 +514,7 @@
           {
               "name": "Wall Side M",
               "access_rules": [
-                ""
+                "$splasher"
               ],
               "sections": [
                 {
@@ -534,7 +534,7 @@
           {
               "name": "Wall Top M",
               "access_rules": [
-                ""
+                "$splasher"
               ],
               "sections": [
                 {
@@ -554,7 +554,7 @@
           {
               "name": "Towers House",
               "access_rules": [
-                ""
+                "$hover", "$rocket"
               ],
               "sections": [
                 {
@@ -574,7 +574,7 @@
           {
               "name": "Pinwheel",
               "access_rules": [
-                ""
+                "$spray"
               ],
               "sections": [
                 {
@@ -594,7 +594,7 @@
           {
               "name": "X Behind Wall",
               "access_rules": [
-                ""
+                "$splasher"
               ],
               "sections": [
                 {
@@ -634,7 +634,7 @@
           {
               "name": "X Between Walls",
               "access_rules": [
-                ""
+                "$splasher"
               ],
               "sections": [
                 {
@@ -654,7 +654,7 @@
           {
               "name": "Sail Platform",
               "access_rules": [
-                ""
+                "$hover", "$rocket"
               ],
               "sections": [
                 {
@@ -734,7 +734,7 @@
           {
               "name": "Cliff",
               "access_rules": [
-                ""
+                "$rocket"
               ],
               "sections": [
                 {
@@ -754,7 +754,7 @@
           {
               "name": "Highest Platform",
               "access_rules": [
-                ""
+                "$rocket"
               ],
               "sections": [
                 {
@@ -1021,7 +1021,7 @@
         {
           "name": "Tower Wall",
           "access_rules": [
-            ""
+            "$spray"
           ],
           "sections": [
             {
@@ -1041,7 +1041,7 @@
       {
         "name": "Outer Ship M",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1061,7 +1061,7 @@
       {
         "name": "Spawn Building Top M",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1081,7 +1081,7 @@
       {
         "name": "Fruit Machine X",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1101,7 +1101,7 @@
       {
         "name": "Rooftop M",
         "access_rules": [
-          ""
+          "$spray, $rocket"
         ],
         "sections": [
           {
@@ -1141,7 +1141,7 @@
       {
         "name": "Short Beam",
         "access_rules": [
-          ""
+          "$hover"
         ],
         "sections": [
           {
@@ -1161,7 +1161,7 @@
       {
         "name": "Tower Platform",
         "access_rules": [
-          ""
+          "$hover", "$rocket"
         ],
         "sections": [
           {
@@ -1181,7 +1181,7 @@
       {
         "name": "Long Beam",
         "access_rules": [
-          ""
+          "$hover", "$rocket"
         ],
         "sections": [
           {
@@ -1201,7 +1201,7 @@
       {
         "name": "Off Catwalk",
         "access_rules": [
-          ""
+          "$hover"
         ],
         "sections": [
           {
@@ -1221,7 +1221,7 @@
       {
         "name": "Crane",
         "access_rules": [
-          ""
+          "$rocket", "$hover"
         ],
         "sections": [
           {
@@ -1281,7 +1281,7 @@
       {
         "name": "Tower X",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1301,7 +1301,7 @@
       {
         "name": "Fountain M",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {

@@ -71,6 +71,18 @@ function splasher()
     return has("fludd") or has("hover")
 end
 
+function height()
+    return has("hover") or has("rocket")
+end
+
+function speed()
+    return has("spray") or has("turbo")
+end
+
+function squirter()
+    return has("spray") or has("yoshi")
+end
+
 function skipintro()
     return has("nozzlefluddless")
 end
@@ -78,4 +90,3 @@ end
 function iscoronaenterable()
     return hascoronashines()
 end
-
