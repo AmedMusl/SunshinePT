@@ -11,52 +11,52 @@
                         "ref": "Bianco Hills/Episode 1/Road to the Big Windmill"
                     },
                     {
-                        "name": "M Graffiti on the Windmill",
-                        "ref": "Bianco Hills/Windmill M/Blue Coin"
+                        "name": "M Graffiti on Windmill",
+                        "ref": "Bianco Hills Blue Coins/Windmill M/Blue Coin"
                     },
                     {
-                        "name": "Spray the Pillar by the Windmill",
-                        "ref": "Bianco Hills/Windmill Pillar/Blue Coin"
+                        "name": "Spray Pillar by Windmill",
+                        "ref": "Bianco Hills Blue Coins/Windmill Pillar/Blue Coin"
                     },
                     {
-                        "name": "M Graffiti Behind the Towers House",
-                        "ref": "Bianco Hills/Towers House M/Blue Coin"
+                        "name": "M Graffiti Behind Towers House",
+                        "ref": "Bianco Hills Blue Coins/Towers House M/Blue Coin"
                     },
                     {
-                        "name": "Spray the Balcony",
-                        "ref": "Bianco Hills/Balcony/Blue Coin"
+                        "name": "Spray Balcony",
+                        "ref": "Bianco Hills Blue Coins/Balcony/Blue Coin"
                     },
                     {
                         "name": "Underwater Right Side",
-                        "ref": "Bianco Hills/Underwater Right/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Underwater Right/Blue Coin"
                     },
                     {
-                        "name": "M Graffiti on the Side of the Wall",
-                        "ref": "Bianco Hills/Wall Side M/Blue Coin"
+                        "name": "M Graffiti on Side of Wall",
+                        "ref": "Bianco Hills Blue Coins/Wall Side M/Blue Coin"
                     },
                     {
-                        "name": "M Graffiti on the Top of the Wall",
-                        "ref": "Bianco Hills/Wall Top M/Blue Coin"
+                        "name": "M Graffiti on Top of Wall",
+                        "ref": "Bianco Hills Blue Coins/Wall Top M/Blue Coin"
                     },
                     {
                         "name": "Towers House Roof",
-                        "ref": "Bianco Hills/Towers House/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Towers House/Blue Coin"
                     },
                     {
-                        "name": "Spin the Pinwheel by the Moat",
-                        "ref": "Bianco Hills/Pinwheel/Blue Coin"
+                        "name": "Spin Pinwheel by Moat",
+                        "ref": "Bianco Hills Blue Coins/Pinwheel/Blue Coin"
                     },
                     {
-                        "name": "X Graffiti Behind the Wall",
-                        "ref": "Bianco Hills/X Behind Wall/Blue Coin"
+                        "name": "X Graffiti Behind Wall",
+                        "ref": "Bianco Hills Blue Coins/X Behind Wall/Blue Coin"
                     },
                     {
-                        "name": "X Graffiti Between the Walls",
-                        "ref": "Bianco Hills/X Between Walls/Blue Coin"
+                        "name": "X Graffiti Between Walls",
+                        "ref": "Bianco Hills Blue Coins/X Between Walls/Blue Coin"
                     },
                     {
-                        "name": "In the Air by the Sail Platform",
-                        "ref": "Bianco Hills/Sail Platform/Blue Coin"
+                        "name": "In the Air by Sail Platform",
+                        "ref": "Bianco Hills Blue Coins/Sail Platform/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -89,20 +89,20 @@
                         "ref": "Bianco Hills/Episode 3/The Hillside Cave Secret"
                     },
                     {
-                        "name": "Spray the Empty Treetop",
-                        "ref": "Bianco Hills/Treetop/Blue Coin"
+                        "name": "Spray Empty Treetop",
+                        "ref": "Bianco Hills Blue Coins/Treetop/Blue Coin"
                     },
                     {
-                        "name": "Defeat the Pokey Atop the Windmill",
-                        "ref": "Bianco Hills/Windmill Pokey/Blue Coin"
+                        "name": "Defeat Pokey Atop Windmill",
+                        "ref": "Bianco Hills Blue Coins/Windmill Pokey/Blue Coin"
                     },
                     {
                         "name": "Village Side Cliff Alcove",
-                        "ref": "Bianco Hills/Cliff/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Cliff/Blue Coin"
                     },
                     {
                         "name": "Highest Pinwheel Platform",
-                        "ref": "Bianco Hills/Highest Platform/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Highest Platform/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -120,12 +120,12 @@
                         "ref": "Bianco Hills/Episode 4/Red Coins of Windmill Village"
                     },
                     {
-                        "name": "Defeat the Hillside Pokey",
-                        "ref": "Bianco Hills/Hillside Pokey/Blue Coin"
+                        "name": "Defeat Hillside Pokey",
+                        "ref": "Bianco Hills Blue Coins/Hillside Pokey/Blue Coin"
                     },
                     {
                         "name": "Windmill Bridge Mesh Underside",
-                        "ref": "Bianco Hills/Bridge Underside/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Bridge Underside/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -143,12 +143,12 @@
                         "ref": "Bianco Hills/Episode 5/Petey Piranha Strikes Back"
                     },
                     {
-                        "name": "Clean the Pianta on the Parrapet",
-                        "ref": "Bianco Hills/Wall Tower Pianta/Blue Coin"
+                        "name": "Clean Pianta on Parrapet",
+                        "ref": "Bianco Hills Blue Coins/Wall Tower Pianta/Blue Coin"
                     },
                     {
                         "name": "Platform Cross",
-                        "ref": "Bianco Hills/Platform Cross/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Platform Cross/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -167,19 +167,19 @@
                     },
                     {
                         "name": "Underwater Left Side",
-                        "ref": "Bianco Hills/Underwater Left/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Underwater Left/Blue Coin"
                     },
                     {
                         "name": "Petey Piranha's Roost",
-                        "ref": "Bianco Hills/Petey Pillar/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Petey Pillar/Blue Coin"
                     },
                     {
                         "name": "Blue Bird",
-                        "ref": "Bianco Hills/Blue Bird/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Blue Bird/Blue Coin"
                     },
                     {
                         "name": "In the Air by Chuckster Momma",
-                        "ref": "Bianco Hills/Chuckster Momma/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Chuckster Momma/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -198,11 +198,11 @@
                     },
                     {
                         "name": "O Graffiti Behind Towers House",
-                        "ref": "Bianco Hills/Towers House O/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Towers House O/Blue Coin"
                     },
                     {
                         "name": "O Graffiti Behind Balcony House",
-                        "ref": "Bianco Hills/Balcony House O/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Balcony House O/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -221,15 +221,15 @@
                     },
                     {
                         "name": "Blue Butterfly",
-                        "ref": "Bianco Hills/Blue Butterfly/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Blue Butterfly/Blue Coin"
                     },
                     {
                         "name": "Beehive",
-                        "ref": "Bianco Hills/Beehive/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Beehive/Blue Coin"
                     },
                     {
                         "name": "Clean the Pianta Between the Walls",
-                        "ref": "Bianco Hills/Tourist/Blue Coin"
+                        "ref": "Bianco Hills Blue Coins/Tourist/Blue Coin"
                     }
                 ],
                 "map_locations": [
