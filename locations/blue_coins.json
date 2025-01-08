@@ -27,7 +27,7 @@
       {
         "name": "Burning Pianta",
         "access_rules": [
-          "$yoshi", "$spray"
+          "$splasher"
         ],
         "sections": [
           {
@@ -47,7 +47,7 @@
       {
         "name": "Shine Gate M",
         "access_rules": [
-          ""
+          "$splasher"
         ],
         "sections": [
           {
@@ -67,7 +67,7 @@
       {
         "name": "Tower M",
         "access_rules": [
-          ""
+          "$splasher"
         ],
         "sections": [
           {
@@ -87,7 +87,7 @@
       {
         "name": "Chuckster Room M",
         "access_rules": [
-          ""
+          "$splasher"
         ],
         "sections": [
           {
@@ -127,7 +127,7 @@
       {
         "name": "Tower Yellow Goo",
         "access_rules": [
-          ""
+          "$yoshi"
         ],
         "sections": [
           {
@@ -147,7 +147,7 @@
       {
         "name": "Jail Cell",
         "access_rules": [
-          ""
+          "$hover"
         ],
         "sections": [
           {
@@ -167,7 +167,7 @@
       {
         "name": "Police Station Yellow Goo",
         "access_rules": [
-          ""
+          "$yoshi"
         ],
         "sections": [
           {
@@ -227,7 +227,7 @@
       {
         "name": "Blue Bird Near Sirena Pipe",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -247,7 +247,7 @@
       {
         "name": "Blue Bird Near Crate Guy",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -434,7 +434,7 @@
           {
               "name": "Windmill Pillar",
               "access_rules": [
-                "$splasher"
+                "$spray"
               ],
               "sections": [
                 {
@@ -514,7 +514,7 @@
           {
               "name": "Wall Side M",
               "access_rules": [
-                "$splasher"
+                "$spray"
               ],
               "sections": [
                 {
@@ -554,7 +554,7 @@
           {
               "name": "Towers House",
               "access_rules": [
-                "$hover", "$rocket"
+                "$hover"
               ],
               "sections": [
                 {
@@ -594,7 +594,7 @@
           {
               "name": "X Behind Wall",
               "access_rules": [
-                "$splasher"
+                "$spray"
               ],
               "sections": [
                 {
@@ -634,7 +634,7 @@
           {
               "name": "X Between Walls",
               "access_rules": [
-                "$splasher"
+                "$spray"
               ],
               "sections": [
                 {
@@ -654,7 +654,7 @@
           {
               "name": "Sail Platform",
               "access_rules": [
-                "$hover", "$rocket"
+                "$hover"
               ],
               "sections": [
                 {
@@ -1061,7 +1061,7 @@
       {
         "name": "Spawn Building Top M",
         "access_rules": [
-          "$spray"
+          "$hover"
         ],
         "sections": [
           {
@@ -1101,7 +1101,7 @@
       {
         "name": "Rooftop M",
         "access_rules": [
-          "$spray, $rocket"
+          "$spray"
         ],
         "sections": [
           {
@@ -1121,7 +1121,7 @@
       {
         "name": "Far Ledge",
         "access_rules": [
-          ""
+          "$spray, $rocket"
         ],
         "sections": [
           {
@@ -1161,7 +1161,7 @@
       {
         "name": "Tower Platform",
         "access_rules": [
-          "$hover", "$rocket"
+          "$hover"
         ],
         "sections": [
           {
@@ -1181,7 +1181,7 @@
       {
         "name": "Long Beam",
         "access_rules": [
-          "$hover", "$rocket"
+          "$hover"
         ],
         "sections": [
           {
@@ -1221,7 +1221,7 @@
       {
         "name": "Crane",
         "access_rules": [
-          "$rocket", "$hover"
+          "$hover"
         ],
         "sections": [
           {
@@ -1341,7 +1341,7 @@
       {
         "name": "Tower Ground M",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1361,7 +1361,7 @@
       {
         "name": "Spawn Building Side M",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1381,7 +1381,7 @@
       {
         "name": "Inner Ship M",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1401,7 +1401,7 @@
       {
         "name": "Yellow Submarine",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1441,7 +1441,7 @@
       {
         "name": "Tower Rocket",
         "access_rules": [
-          ""
+          "$rocket"
         ],
         "sections": [
           {
@@ -1648,7 +1648,7 @@
       {
         "name": "Rocket M",
         "access_rules": [
-          ""
+          "$spray, $height"
         ],
         "sections": [
           {
@@ -1668,7 +1668,7 @@
       {
         "name": "Spawn Triangle",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1688,7 +1688,7 @@
       {
         "name": "Trees Triangle",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1708,7 +1708,7 @@
       {
         "name": "Left Blue Bird",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1728,7 +1728,7 @@
       {
         "name": "Right Blue Bird",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1748,7 +1748,7 @@
       {
         "name": "Highest Rope",
         "access_rules": [
-          ""
+          "$height"
         ],
         "sections": [
           {
@@ -1768,7 +1768,7 @@
       {
         "name": "Pole",
         "access_rules": [
-          ""
+          "$height"
         ],
         "sections": [
           {
@@ -1808,7 +1808,7 @@
       {
         "name": "Swing",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -1868,7 +1868,7 @@
       {
         "name": "Sand Cabana Roof",
         "access_rules": [
-          ""
+          "$rocket"
         ],
         "sections": [
           {
@@ -2235,7 +2235,7 @@
       {
         "name": "Tree Sand Shine",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2255,7 +2255,7 @@
       {
         "name": "Cannon Sand Shine",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2275,7 +2275,7 @@
       {
         "name": "Orange Wall M",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2295,7 +2295,7 @@
       {
         "name": "Sand M",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2315,7 +2315,7 @@
       {
         "name": "Green Clam",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2335,7 +2335,7 @@
       {
         "name": "Left O",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2355,7 +2355,7 @@
       {
         "name": "Right O",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2375,7 +2375,7 @@
       {
         "name": "Entrance Blue Bird",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2395,7 +2395,7 @@
       {
         "name": "Gazebo Blue Bird",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2415,7 +2415,7 @@
       {
         "name": "Ship Peak",
         "access_rules": [
-          ""
+          "$hover"
         ],
         "sections": [
           {
@@ -2435,7 +2435,7 @@
       {
         "name": "Cage Platform",
         "access_rules": [
-          ""
+          "$hover"
         ],
         "sections": [
           {
@@ -2455,7 +2455,7 @@
       {
         "name": "White Wall X",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2475,7 +2475,7 @@
       {
         "name": "Tree X",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2495,7 +2495,7 @@
       {
         "name": "Ferris M",
         "access_rules": [
-          ""
+          "$hover"
         ],
         "sections": [
           {
@@ -2515,7 +2515,7 @@
       {
         "name": "Banana Triangle",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -2535,7 +2535,7 @@
       {
         "name": "Ferris Triangle",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2555,7 +2555,7 @@
       {
         "name": "Stairs Underside",
         "access_rules": [
-          ""
+          "$hover"
         ],
         "sections": [
           {
@@ -2575,7 +2575,7 @@
       {
         "name": "Girder",
         "access_rules": [
-          ""
+          "$hover"
         ],
         "sections": [
           {
@@ -2595,7 +2595,7 @@
       {
         "name": "Coaster Ledge",
         "access_rules": [
-          ""
+          "$hover"
         ],
         "sections": [
           {
@@ -2615,7 +2615,7 @@
       {
         "name": "Cage",
         "access_rules": [
-          ""
+          "$hover"
         ],
         "sections": [
           {
@@ -2635,7 +2635,7 @@
       {
         "name": "Stackin' Stus",
         "access_rules": [
-          ""
+          "$spray", "$hover"
         ],
         "sections": [
           {
@@ -3002,7 +3002,7 @@
       {
         "name": "Episode 1 Male Noki",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -3028,7 +3028,7 @@
       {
         "name": "Episode 1 Female Noki",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -3461,7 +3461,7 @@
       {
         "name": "Rocket Alcove",
         "access_rules": [
-          ""
+          "$hover", "$rocket"
         ],
         "sections": [
           {
@@ -3481,7 +3481,7 @@
       {
         "name": "Bottom Secret Path",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3501,7 +3501,7 @@
       {
         "name": "Top Secret Path",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3521,7 +3521,7 @@
       {
         "name": "Rocket",
         "access_rules": [
-          ""
+          "$hover, $rocket"
         ],
         "sections": [
           {
@@ -3541,7 +3541,7 @@
       {
         "name": "Bottom Pulley",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3561,7 +3561,7 @@
       {
         "name": "Top Pulley",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3581,7 +3581,7 @@
       {
         "name": "Tall Alcove",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3601,7 +3601,7 @@
       {
         "name": "Turbo Alcove",
         "access_rules": [
-          ""
+          "$hover"
         ],
         "sections": [
           {
@@ -3621,7 +3621,7 @@
       {
         "name": "Shell Alcove",
         "access_rules": [
-          ""
+          "$hover"
         ],
         "sections": [
           {
@@ -3641,7 +3641,7 @@
       {
         "name": "Top Right Panel",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3661,7 +3661,7 @@
       {
         "name": "Bottom Left Panel",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3681,7 +3681,7 @@
       {
         "name": "Top Right Tunnel",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3701,7 +3701,7 @@
       {
         "name": "Bottom Right Tunnel",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3721,7 +3721,7 @@
       {
         "name": "Bottom Right Alcove",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3741,7 +3741,7 @@
       {
         "name": "Left Tunnel",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3761,7 +3761,7 @@
       {
         "name": "Bottom Left Alcove",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3781,7 +3781,7 @@
       {
         "name": "Bird Cliff Panel",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3801,7 +3801,7 @@
       {
         "name": "Bird Cliff Alcove",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3821,7 +3821,7 @@
       {
         "name": "Spawn",
         "access_rules": [
-          ""
+          "$hover", "$turbo"
         ],
         "sections": [
           {
@@ -3841,7 +3841,7 @@
       {
         "name": "Coast",
         "access_rules": [
-          ""
+          "$hover", "$turbo"
         ],
         "sections": [
           {
@@ -3881,7 +3881,7 @@
       {
         "name": "M",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -4074,6 +4074,7 @@
       {
         "name": "Spawn M",
         "access_rules": [
+          "$spray"
         ],
         "sections": [
           {
@@ -4093,6 +4094,7 @@
       {
         "name": "Right M",
         "access_rules": [
+          "$spray"
         ],
         "sections": [
           {
@@ -4112,6 +4114,7 @@
       {
         "name": "Grass",
         "access_rules": [
+          ""
         ],
         "sections": [
           {
@@ -4131,6 +4134,7 @@
       {
         "name": "Back Tree",
         "access_rules": [
+          "$hover"
         ],
         "sections": [
           {
@@ -4150,6 +4154,7 @@
       {
         "name": "River Bridge",
         "access_rules": [
+          ""
         ],
         "sections": [
           {
@@ -4169,6 +4174,7 @@
       {
         "name": "Left Tree",
         "access_rules": [
+          "$hover"
         ],
         "sections": [
           {
@@ -4188,6 +4194,7 @@
       {
         "name": "Wall Triangle",
         "access_rules": [
+          "$spray"
         ],
         "sections": [
           {
@@ -4207,6 +4214,7 @@
       {
         "name": "Hot Tub Triangle",
         "access_rules": [
+          "$spray"
         ],
         "sections": [
           {
@@ -4226,6 +4234,7 @@
       {
         "name": "Left M",
         "access_rules": [
+          "$spray"
         ],
         "sections": [
           {
@@ -4245,6 +4254,7 @@
       {
         "name": "Statue's Nose",
         "access_rules": [
+          ""
         ],
         "sections": [
           {
@@ -4264,6 +4274,7 @@
       {
         "name": "Giant M",
         "access_rules": [
+          "$spray"
         ],
         "sections": [
           {
@@ -4283,6 +4294,7 @@
       {
         "name": "F.L.U.D.D. M",
         "access_rules": [
+          ""
         ],
         "sections": [
           {
@@ -4302,6 +4314,7 @@
       {
         "name": "Burning Pianta",
         "access_rules": [
+          ""
         ],
         "sections": [
           {
@@ -4321,6 +4334,7 @@
       {
         "name": "River End",
         "access_rules": [
+          ""
         ],
         "sections": [
           {
@@ -4340,6 +4354,7 @@
       {
         "name": "Front Beehive",
         "access_rules": [
+          ""
         ],
         "sections": [
           {
@@ -4359,6 +4374,7 @@
       {
         "name": "Blue Butterfly Flock",
         "access_rules": [
+          ""
         ],
         "sections": [
           {
@@ -4378,6 +4394,7 @@
       {
         "name": "Back Beehive",
         "access_rules": [
+          ""
         ],
         "sections": [
           {
@@ -4397,7 +4414,7 @@
       {
         "name": "Waterfall",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -4577,7 +4594,7 @@
       {
         "name": "Moon",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
