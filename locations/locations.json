@@ -49,6 +49,7 @@
     "name": "Delfino Plaza",
     "chest_unopened_img": "images/items/Shine_Sprite.png",
     "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
+    "access_rules":["$splasher"],
     "children": [
       {
         "name": "Secret Shine",
@@ -73,12 +74,11 @@
       {
         "name": "Secret Shine 2",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "Clean the West Bell",
+            "access_rules":["$hover", "$rocket"],
             "item_count": 1
           }
         ],
@@ -93,11 +93,11 @@
       {
         "name": "Secret Shine 3",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
             "name": "Super Slide",
+            "access_rules":["$height"],
             "item_count": 1
           }
         ],
@@ -112,11 +112,11 @@
       {
         "name": "Secret Shine 4",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
             "name": "The Golden Bird",
+            "access_rules":["$spray, $hover"],
             "item_count": 1
           }
         ],
@@ -131,11 +131,11 @@
       {
         "name": "Secret Shine 5",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
             "name": "Turbo Dash!",
+            "access_rules":["$turbo"],
             "item_count": 1
           }
         ],
@@ -155,6 +155,7 @@
         "sections": [
           {
             "name": "Lighthouse Roof",
+            "access_rules":["$rocket"],
             "item_count": 1
           }
         ],
@@ -169,11 +170,11 @@
       {
         "name": "Secret Shine 7",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
             "name": "Clean the East Bell",
+            "access_rules":["$rocket, $spray"],
             "item_count": 1
           }
         ],
@@ -188,11 +189,11 @@
       {
         "name": "Secret Shine 8",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
             "name": "Shine Gate",
+            "access_rules":["$rocket"],
             "item_count": 1
           }
         ],
@@ -207,11 +208,11 @@
       {
         "name": "Secret Shine 9",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
             "name": "Pachinko Game",
+            "access_rules":["hover", "rocket"],
             "item_count": 1
           }
         ],
@@ -226,11 +227,11 @@
       {
         "name": "Secret Shine 10",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
             "name": "Lily Pad Ride",
+            "access_rules":["$hover, $spray, $yoshi"],
             "item_count": 1
           }
         ],
@@ -245,11 +246,11 @@
       {
         "name": "Secret Shine 11",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
             "name": "Turbo Track",
+            "access_rules":["turbo"],
             "item_count": 1
           }
         ],
@@ -264,11 +265,11 @@
       {
         "name": "Secret Shine 12",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
             "name": "Red Coin Field",
+            "access_rules":["spray, rocket", "hover"],
             "item_count": 1
           }
         ],
@@ -283,7 +284,6 @@
       {
         "name": "Secret Shine 13",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
@@ -306,7 +306,6 @@
       {
         "name": "Secret Shine 14",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
@@ -328,16 +327,16 @@
     "name": "Bianco Hills",
     "chest_unopened_img": "images/items/Shine_Sprite.png",
     "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
+    "access_rules":["$isBiancoEnterable"],
     "children": [
       {
         "name": "Episode 1",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "Road to the Big Windmill",
+            "access_rules":["$splasher"],
             "item_count": 1
           }
         ],
@@ -352,11 +351,11 @@
       {
         "name": "Episode 2",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
             "name": "Down with Petey Piranha!",
+            "access_rules":["$spray, $hover"],
             "item_count": 1
           }
         ],
@@ -371,15 +370,17 @@
       {
         "name": "Episode 3",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
+          "$spray, $hover"
         ],
         "sections": [
           {
             "name": "The Hillside Cave Secret",
+            "access_rules":["$hover", "$rocket"],
             "item_count": 1
           },
           {
             "name": "Red Coins of the Hillside Cave",
+            "access_rules":["$hover"],
             "item_count": 1
           }
         ],
@@ -394,11 +395,12 @@
       {
         "name": "Episode 4",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
+          "$Bianco4"
         ],
         "sections": [
           {
             "name": "Red Coins of Windmill Village",
+            "access_rules":["$hover", "$rocket"],
             "item_count": 1
           }
         ],
@@ -413,11 +415,12 @@
       {
         "name": "Episode 5",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
+          "$Bianco5"
         ],
         "sections": [
           {
             "name": "Petey Piranha Strikes Back",
+            "access_rules":["$spray, $rocket"], //dont know why rocket is needed for this??
             "item_count": 1
           }
         ],
@@ -432,15 +435,17 @@
       {
         "name": "Episode 6",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
+          "$Bianco6"
         ],
         "sections": [
           {
             "name": "Secret of the Dirty Lake",
+            "access_rules":["$spray", "$hover"],
             "item_count": 1
           },
           {
             "name": "Red Coins of the Dirty Lake",
+            "access_rules":["$spray"],
             "item_count": 1
           }
         ],
@@ -455,7 +460,7 @@
       {
         "name": "Episode 7",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
+          "$Bianco6"
         ],
         "sections": [
           {
@@ -474,7 +479,7 @@
       {
         "name": "Episode 8",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
+          "$Bianco6"
         ],
         "sections": [
           {
@@ -496,16 +501,16 @@
     "name": "Ricco Harbor",
     "chest_unopened_img": "images/items/Shine_Sprite.png",
     "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
+    "access_rules":["$isRiccoEnterable"],
     "children": [
       {
         "name": "Episode 1",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "Gooper Blooper Breaks Out",
+            "access_rules":["$hover"],
             "item_count": 1
           }
         ],
@@ -520,8 +525,7 @@
       {
         "name": "Episode 2",
         "access_rules": [
-          "progressive_2",
-          "toggle"
+          "$hover"
         ],
         "sections": [
           {
@@ -544,12 +548,12 @@
       {
         "name": "Episode 3",
         "access_rules": [
-          "progressive_2",
-          "toggle"
+          "$spray"
         ],
         "sections": [
           {
             "name": "The Caged Shine Sprite",
+            "access_rules":["$hover"],
             "item_count": 1
           }
         ],
@@ -564,8 +568,6 @@
       {
         "name": "Episode 4",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
@@ -588,8 +590,6 @@
       {
         "name": "Episode 5",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
@@ -608,8 +608,6 @@
       {
         "name": "Episode 6",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
@@ -628,8 +626,6 @@
       {
         "name": "Episode 7",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
@@ -648,12 +644,11 @@
       {
         "name": "Episode 8",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "Yoshi's Fruit Adventure",
+            "access_rules":["$yoshi"],
             "item_count": 1
           }
         ],

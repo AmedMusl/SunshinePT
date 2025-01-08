@@ -63,9 +63,29 @@ function rocket()
     return has("rocket")
 end
 
-function yoshi()
-    return has("yoshi")
+-- Yoshi Logic
+
+function isPinnaEnterable()
+    if has("progression") == has("progression_ticket") then
+        return has("pinna")
+    elseif has("progression") == has("progression_vanilla") then
+        return shines() >= 10
+    end
 end
+
+function Pinna4()
+    return has("fludd") and has("hover")
+end
+
+function yoshi()
+    if has("yoshistart") == has("yoshienabled") then
+        return has("yoshi")
+    elseif has("yoshistart") == has("yoshidisabled") then
+        return isPinnaEnterable() and Pinna4()
+    end
+end
+
+-- General Items
 
 function splasher()
     return has("fludd") or has("hover")
@@ -87,6 +107,45 @@ function skipintro()
     return has("nozzlefluddless")
 end
 
+-- Entrance Functions
+-- Function for Corona and Airstrip Entrances
+
 function iscoronaenterable()
     return hascoronashines()
+end
+
+-- Bianco
+
+function isBiancoEnterable()
+    if has("progression") == has("progression_ticket") then
+        return has("bianco")
+    elseif has("progression") == has("progression_vanilla") then
+        return has("fludd")
+    end
+end
+
+function Bianco4()
+    return has("fludd") and has("hover") or has("rocket")
+end
+
+function Bianco5()
+    return has("fludd") and has("hover") or has("rocket")
+end
+
+function Bianco6()
+    return has("fludd") and has("hover") and has("rocket")
+end
+
+-- Ricco
+
+function isRiccoEnterable()
+    if has("progression") == has("progression_ticket") then
+        return has("ricco")
+    elseif has("progression") == has("progression_vanilla") then
+        return has("fludd") and shines() >= 3
+    end
+end
+
+function Ricco4()
+    return 
 end
