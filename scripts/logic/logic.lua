@@ -40,6 +40,11 @@ end
 function bluecount(targetblues)
     return blues() >= tonumber(targetblues)
 end
+function hascoronashines()
+    if Tracker:ProviderCountForCode("shine") >= Tracker:ProviderCountForCode("coronashines") then
+        return true
+    end
+end
 
 -- Moves
 function spray()
@@ -63,7 +68,7 @@ function yoshi()
 end
 
 function splasher()
-    return has("spray") or has("hover")
+    return has("fludd") or has("hover")
 end
 
 function height()
@@ -76,4 +81,12 @@ end
 
 function squirter()
     return has("spray") or has("yoshi")
+end
+
+function skipintro()
+    return has("nozzlefluddless")
+end
+
+function iscoronaenterable()
+    return hascoronashines()
 end
