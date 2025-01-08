@@ -12,6 +12,7 @@
         "sections": [
           {
             "name": "Delfino Airstrip Dilemma",
+            "access_rules":["$splasher", "$skipintro"],
             "item_count": 1
           }
         ],
@@ -26,12 +27,11 @@
       {
         "name": "Epilogue",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "Red Coin Waterworks",
+            "access_rules":["$iscoronaenterable"],
             "item_count": 1
           }
         ],
@@ -58,6 +58,7 @@
         "sections": [
           {
             "name": "Shine Sprite in the Sand",
+            "access_rules":["$hover"],
             "item_count": 1
           }
         ],

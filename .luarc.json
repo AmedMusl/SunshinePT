@@ -11,6 +11,23 @@
         "onLocation",
         "class",
         "has_more_then_n_consumable",
-        "has"
+        "has",
+        "levelaccess",
+        "bluecoinsenabled",
+        "coin_shine_enabled",
+        "shines",
+        "shinecount",
+        "blues",
+        "bluecount",
+        "spray",
+        "hover",
+        "turbo",
+        "rocket",
+        "yoshi",
+        "splasher",
+        "skipintro",
+        "coronashines",
+        "hascoronashines",
+        "iscoronaenterable"
     ]
 }
