@@ -78,9 +78,9 @@ function Pinna4()
 end
 
 function yoshi()
-    if has("yoshistart") == has("yoshienabled") then
+    if has("yoshistart") == has("skip_pinna") then
         return has("yoshi")
-    elseif has("yoshistart") == has("yoshidisabled") then
+    elseif has("yoshistart") == has("plaza_only") then
         return isPinnaEnterable() and Pinna4()
     end
 end
@@ -146,6 +146,16 @@ function isRiccoEnterable()
     end
 end
 
-function Ricco4()
-    return 
+function Ricco47()
+    return has("hover")
+end
+
+-- Gelato
+
+function isGelatoEnterable()
+    if has("progression") == has("progression_ticket") then
+        return has("gelato")
+    elseif has("progression") == has("progression_vanilla") then
+        return has("fludd") and shines() >= 5
+    end
 end

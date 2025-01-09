@@ -568,14 +568,17 @@
       {
         "name": "Episode 4",
         "access_rules": [
+          "$Ricco47"
         ],
         "sections": [
           {
             "name": "The Secret of Ricco Tower",
+            "access_rules":["$hover, $rocket"],
             "item_count": 1
           },
           {
             "name": "Red Coins in Ricco Tower",
+            "access_rules":["$hover, $rocket"],
             "item_count": 1
           }
         ],
@@ -590,10 +593,12 @@
       {
         "name": "Episode 5",
         "access_rules": [
+          "$Ricco47"
         ],
         "sections": [
           {
             "name": "Gooper Blooper Returns",
+            "access_rules":["$hover, $rocket"],
             "item_count": 1
           }
         ],
@@ -608,10 +613,12 @@
       {
         "name": "Episode 6",
         "access_rules": [
+          "$Ricco47"
         ],
         "sections": [
           {
             "name": "Red Coins on the Water",
+            "access_rules":["$hover, $rocket"],
             "item_count": 1
           }
         ],
@@ -626,10 +633,12 @@
       {
         "name": "Episode 7",
         "access_rules": [
+          "$Ricco47"
         ],
         "sections": [
           {
             "name": "Shadow Mario Revisited",
+            "access_rules":["$hover, $rocket"],
             "item_count": 1
           }
         ],
@@ -644,6 +653,7 @@
       {
         "name": "Episode 8",
         "access_rules": [
+          "$height"
         ],
         "sections": [
           {
@@ -666,20 +676,21 @@
     "name": "Gelato Beach",
     "chest_unopened_img": "images/items/Shine_Sprite.png",
     "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
+    "access_rules":["$isGelatoEnterable"],
     "children": [
       {
         "name": "Episode 1",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "Dune Bud Sand Castle Secret",
+            "access_rules":["$splasher"],
             "item_count": 1
           },
           {
             "name": "Red Coins in the Sand Castle",
+            "access_rules":["$hover"],
             "item_count": 1
           }
         ],
@@ -694,12 +705,11 @@
       {
         "name": "Episode 2",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "Mirror Madness! Tilt, Slam, Bam!",
+            "access_rules":["$spray, $hover"],
             "item_count": 1
           }
         ],
@@ -714,12 +724,11 @@
       {
         "name": "Episode 3",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "Wiggler Ahoy! Full Steam Ahead!",
+            "access_rules":["$spray, $hover"],
             "item_count": 1
           }
         ],
@@ -734,8 +743,7 @@
       {
         "name": "Episode 4",
         "access_rules": [
-          "progressive_2",
-          "toggle"
+          "$hover"
         ],
         "sections": [
           {
@@ -781,12 +789,12 @@
       {
         "name": "Episode 5",
         "access_rules": [
-          "progressive_2",
-          "toggle"
+          "$hover"
         ],
         "sections": [
           {
             "name": "Il Piantissimo's Sand Sprint",
+            "access_rules":["$hover", "$turbo"],
             "item_count": 1
           }
         ],
@@ -801,8 +809,6 @@
       {
         "name": "Episode 6",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
@@ -821,12 +827,11 @@
       {
         "name": "Episode 7",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "It's Shadow Mario! After Him!",
+            "access_rules":["$splasher, $hover"],
             "item_count": 1
           }
         ],
@@ -841,12 +846,11 @@
       {
         "name": "Episode 8",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "The Watermelon Festival",
+            "access_rules":["$splasher"],
             "item_count": 1
           }
         ],
@@ -861,12 +865,11 @@
       {
         "name": "Secret Shine",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "Sandy Shine Sprite",
+            "access_rules":["$spray"],
             "item_count": 1
           }
         ],
@@ -884,16 +887,16 @@
     "name": "Pinna Park",
     "chest_unopened_img": "images/items/Shine_Sprite.png",
     "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
+    "access_rules":["$isPinnaEnterable"],
     "children": [
       {
         "name": "Episode 1",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "Mecha-Bowser Appears!",
+            "access_rules":["$spray"],
             "item_count": 1
           }
         ],
@@ -908,8 +911,7 @@
       {
         "name": "Episode 2",
         "access_rules": [
-          "progressive_2",
-          "toggle"
+          "$spray"
         ],
         "sections": [
           {
@@ -918,6 +920,7 @@
           },
           {
             "name": "Red Coins in the Cannon",
+            "access_rules":["$hover"],
             "item_count": 1
           }
         ],
@@ -932,12 +935,11 @@
       {
         "name": "Episode 3",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
             "name": "Red Coins of the Pirate Ships",
+            "access_rules":["$spray, $hover"],
             "item_count": 1
           }
         ],
@@ -958,6 +960,7 @@
         "sections": [
           {
             "name": "The Wilted Sunflowers",
+            "access_rules":["$spray, $hover"],
             "item_count": 1
           }
         ],
@@ -972,8 +975,7 @@
       {
         "name": "Episode 5",
         "access_rules": [
-          "progressive_2",
-          "toggle"
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -992,16 +994,17 @@
       {
         "name": "Episode 6",
         "access_rules": [
-          "progressive_2",
-          "toggle"
+          "$spray, $hover"
         ],
         "sections": [
           {
             "name": "The Yoshi-Go-Round's Secret",
+            "access_rules":["$yoshi"],
             "item_count": 1
           },
           {
             "name": "Red Coins in the Yoshi-Go-Round",
+            "access_rules":["$yoshi"],
             "item_count": 1
           }
         ],
@@ -1016,8 +1019,7 @@
       {
         "name": "Episode 7",
         "access_rules": [
-          "progressive_2",
-          "toggle"
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -1036,8 +1038,7 @@
       {
         "name": "Episode 8",
         "access_rules": [
-          "progressive_2",
-          "toggle"
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -1059,12 +1060,11 @@
     "name": "Sirena Beach",
     "chest_unopened_img": "images/items/Shine_Sprite.png",
     "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
+    "access_rules":["yoshi"],
     "children": [
       {
         "name": "Episode 1",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
