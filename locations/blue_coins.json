@@ -4,6 +4,7 @@
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
     "visibility_rules":["blues_on"],
+    "access_rules":["$skipintro", "$splasher"],
     "children": [
       {
         "name": "Turbo Pillar",

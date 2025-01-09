@@ -54,7 +54,6 @@
       {
         "name": "Secret Shine",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
@@ -150,7 +149,6 @@
       {
         "name": "Secret Shine 6",
         "access_rules": [
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
         ],
         "sections": [
           {
@@ -231,7 +229,7 @@
         "sections": [
           {
             "name": "Lily Pad Ride",
-            "access_rules":["$hover, $spray, $yoshi"],
+            "access_rules":["$hover, $spray, yoshi"],
             "item_count": 1
           }
         ],
@@ -954,8 +952,6 @@
       {
         "name": "Episode 4",
         "access_rules": [
-          "progressive_2",
-          "toggle"
         ],
         "sections": [
           {
