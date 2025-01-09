@@ -545,6 +545,54 @@
                     {
                         "name": "Stomp Red Cataquack",
                         "ref": "Gelato Beach Blue Coins/Red Cataquack/Blue Coin"
+                    },
+                    {
+                        "name": "Put Fruit in Surf Cabana Blender",
+                        "ref": "Gelato Beach Blue Coins/Juicer/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti by Rockey Nozzle Box",
+                        "ref": "Gelato Beach Blue Coins/Rocket M/Blue Coin"
+                    },
+                    {
+                        "name": "Triangle Graffiti Right Side",
+                        "ref": "Gelato Beach Blue Coins/Spawn Triangle/Blue Coin"
+                    },
+                    {
+                        "name": "Triangle Graffiti Left Side",
+                        "ref": "Gelato Beach Blue Coins/Trees Triangle/Blue Coin"
+                    },
+                    {
+                        "name": "Left Blue Bird in Ampetheathre",
+                        "ref": "Gelato Beach Blue Coins/Left Blue Bird/Blue Coin"
+                    },
+                    {
+                        "name": "Right Blue Bird in Ampetheathre",
+                        "ref": "Gelato Beach Blue Coins/Right Blue Bird/Blue Coin"
+                    },
+                    {
+                        "name": "Atop Highest Rope",
+                        "ref": "Gelato Beach Blue Coins/Highest Rope/Blue Coin"
+                    },
+                    {
+                        "name": "Crevice Below Highest Rope",
+                        "ref": "Gelato Beach Blue Coins/Crevice/Blue Coin"
+                    },
+                    {
+                        "name": "Atop Pole by Ampetheatre",
+                        "ref": "Gelato Beach Blue Coins/Pole/Blue Coin"
+                    },
+                    {
+                        "name": "Underneath Surf Cabana Deck",
+                        "ref": "Gelato Beach Blue Coins/Deck/Blue Coin"
+                    },
+                    {
+                        "name": "Sand Cabana Ceiling",
+                        "ref": "Gelato Beach Blue Coins/Sand Cabana Roof/Blue Coin"
+                    },
+                    {
+                        "name": "In the Air Above Umbrella Shack",
+                        "ref": "Gelato Beach Blue Coins/Shack/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -560,6 +608,18 @@
                 "sections": [
                     {
                         "ref": "Gelato Beach/Episode 2/Mirror Madness! Tilt, Slam, Bam!"
+                    },
+                    {
+                        "name": "Sand Shine at Sand Cabana",
+                        "ref": "Gelato Beach Blue Coins/Sand Shine at Sand Cabana/Blue Coin"
+                    },
+                    {
+                        "name": "Sand Shine by Sail Boat",
+                        "ref": "Gelato Beach Blue Coins/Middle Sand Shine/Blue Coin"
+                    },
+                    {
+                        "name": "Big Sand Shine in Penninsula",
+                        "ref": "Gelato Beach Blue Coins/Big Sand Shine/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -644,6 +704,34 @@
                     {
                         "name": "Beehive",
                         "ref": "Gelato Beach Blue Coins/Beehive/Blue Coin"
+                    },
+                    {
+                        "name": "Sleeping Cataquack in Tree",
+                        "ref": "Gelato Beach Blue Coins/Blue Cataquack/Blue Coin"
+                    },
+                    {
+                        "name": "Ride the Swing",
+                        "ref": "Gelato Beach Blue Coins/Swing/Blue Coin"
+                    },
+                    {
+                        "name": "Atop Tree Holding Swing",
+                        "ref": "Gelato Beach Blue Coins/Big Tree/Blue Coin"
+                    },
+                    {
+                        "name": "Underwater by Swing Island",
+                        "ref": "Gelato Beach Blue Coins/Close Underwater/Blue Coin"
+                    },
+                    {
+                        "name": "Underwater by Sand Penninsula",
+                        "ref": "Gelato Beach Blue Coins/Far Underwater/Blue Coin"
+                    },
+                    {
+                        "name": "Blue Fish School",
+                        "ref": "Gelato Beach Blue Coins/Blue Fish School/Blue Coin"
+                    },
+                    {
+                        "name": "Red Fish School",
+                        "ref": "Gelato Beach Blue Coins/Red Fish School/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -719,6 +807,14 @@
                 "sections": [
                     {
                         "ref": "Pinna Park/Episode 1/Mecha-Bowser Appears!"
+                    },
+                    {
+                        "name": "Sand Shine by Tree",
+                        "ref": "Pinna Park Blue Coins/Tree Sand Shine/Blue Coin"
+                    },
+                    {
+                        "name": "Sand Shine by Cannon",
+                        "ref": "Pinna Park Blue Coins/Cannon Sand Shine/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -773,6 +869,30 @@
                 "sections": [
                     {
                         "ref": "Pinna Park/Episode 3/Red Coins of the Pirate Ships"
+                    },
+                    {
+                        "name": "Under Pirate Ship Stairs",
+                        "ref": "Pinna Park Blue Coins/Stairs Underside/Blue Coin"
+                    },
+                    {
+                        "name": "Peak of First Pirate Ship",
+                        "ref": "Pinna Park Blue Coins/Ship Peak/Blue Coin"
+                    },
+                    {
+                        "name": "Pirate Ship Girder",
+                        "ref": "Pinna Park Blue Coins/Girder/Blue Coin"
+                    },
+                    {
+                        "name": "Inside Mesh Cage",
+                        "ref": "Pinna Park Blue Coins/Cage/Blue Coin"
+                    },
+                    {
+                        "name": "Platform Above Mesh Cage",
+                        "ref": "Pinna Park Blue Coins/Cage Platform/Blue Coin"
+                    },
+                    {
+                        "name": "Topple Stackin' Stus",
+                        "ref": "Pinna Park Blue Coins/Stackin' Stus/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -803,6 +923,30 @@
                 "sections": [
                     {
                         "ref": "Pinna Park/Episode 5/The Runaway Ferris Wheel"
+                    },
+                    {
+                        "name": "M Graffiti on Ferris Wheel Backside",
+                        "ref": "Pinna Park Blue Coins/Ferris M/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti on Outer Edge",
+                        "ref": "Pinna Park Blue Coins/Sand M/Blue Coin"
+                    },
+                    {
+                        "name": "Triangle Graffiti on Ferris Wheel",
+                        "ref": "Pinna Park Blue Coins/Ferris Triangle/Blue Coin"
+                    },
+                    {
+                        "name": "Triangle Graffiti by Bananas",
+                        "ref": "Pinna Park Blue Coins/Banana Triangle/Blue Coin"
+                    },
+                    {
+                        "name": "O Graffiti on Ferris Wheel Left",
+                        "ref": "Pinna Park Blue Coins/Left O/Blue Coin"
+                    },
+                    {
+                        "name": "O Graffiti on Ferris Wheel Right",
+                        "ref": "Pinna Park Blue Coins/Right O/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -822,6 +966,34 @@
                     {
                         "name": "Park Blue Butterfly",
                         "ref": "Pinna Park Blue Coins/Park Blue Butterfly/Blue Coin"
+                    },
+                    {
+                        "name": "Beach Butterfly A",
+                        "ref": "Pinna Park Blue Coins/Beach Butterfly A/Blue Coin"
+                    },
+                    {
+                        "name": "Beach Butterfly B",
+                        "ref": "Pinna Park Blue Coins/Beach Butterfly B/Blue Coin"
+                    },
+                    {
+                        "name": "Blue Bird by Entrance",
+                        "ref": "Pinna Park Blue Coins/Entrance Blue Bird/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti on Orange Wall",
+                        "ref": "Pinna Park Blue Coins/Orange Wall M/Blue Coin"
+                    },
+                    {
+                        "name": "X Graffiti on Pianta Tree",
+                        "ref": "Pinna Park Blue Coins/Tree X/Blue Coin"
+                    },
+                    {
+                        "name": "X Graffiti by Pool",
+                        "ref": "Pinna Park Blue Coins/White Wall X/Blue Coin"
+                    },
+                    {
+                        "name": "Spray Green Clam",
+                        "ref": "Pinna Park Blue Coins/Green Clam/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -852,6 +1024,14 @@
                 "sections": [
                     {
                         "ref": "Pinna Park/Episode 8/Roller Coaster Balloons"
+                    },
+                    {
+                        "name": "Blue Bird by Gazebo",
+                        "ref": "Pinna Park Blue Coins/Gazebo Blue Bird/Blue Coin"
+                    },
+                    {
+                        "name": "Ledge by Roller Coaster",
+                        "ref": "Pinna Park Blue Coins/Coaster Ledge/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -1006,6 +1186,10 @@
                     {
                         "name": "Ground Pound Slot Machine",
                         "ref": "Sirena Beach Blue Coins/Shot Machine/Blue Coin"
+                    },
+                    {
+                        "name": "Defeat Stray Boo in Attic",
+                        "ref": "Sirena Beach Blue Coins/Attic/Blue Coin"
                     },
                     {
                         "name": "Destroy Pinapple Room Crate",
