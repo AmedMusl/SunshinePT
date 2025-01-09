@@ -32,12 +32,14 @@ function dump_table(o, depth)
 end
 
 function onClear(slot_data)
-    for k, v in pairs(LOCATION_MAPPING) do
-        local loc_list = LOCATION_MAPPING[k]
-        for i, loc in ipairs(loc_list) do
-            local obj = Tracker:FindObjectForCode(loc)
+    SLOT_DATA = slot_data
+    CUR_INDEX = -1
+    -- reset locations
+    for _, v in pairs(LOCATION_MAPPING) do
+        if v[1] then
+            local obj = Tracker:FindObjectForCode(v[1])
             if obj then
-                if loc:sub(1, 1) == "@" then
+                if v[1]:sub(1, 1) == "@" then
                     obj.AvailableChestCount = obj.ChestCount
                 else
                     obj.Active = false
@@ -45,6 +47,37 @@ function onClear(slot_data)
             end
         end
     end
+    -- reset items
+    for _, v in pairs(ITEM_MAPPING) do
+        if v[1] and v[2] then
+            if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+                print(string.format("onClear: clearing item %s of type %s", v[1], v[2]))
+            end
+            local obj = Tracker:FindObjectForCode(v[1])
+            if obj then
+                if v[2] == "toggle" then
+                    obj.Active = false
+                elseif v[2] == "progressive" then
+                    obj.CurrentStage = 0
+                    obj.Active = false
+                elseif v[2] == "consumable" then
+                    obj.AcquiredCount = 0
+                elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+                    print(string.format("onClear: unknown item type %s for code %s", v[2], v[1]))
+                end
+            elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+                print(string.format("onClear: could not find object for code %s", v[1]))
+            end
+        end
+    end
+
+    if slot_data == nil  then
+        print("welp")
+        return
+    end
+
+    PLAYER_ID = Archipelago.PlayerNumber or -1
+    TEAM_NUMBER = Archipelago.TeamNumber or 0
 
     if slot_data['blue_coin_sanity'] then
         local bluesanity = Tracker:FindObjectForCode("blues")

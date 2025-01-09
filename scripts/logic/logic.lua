@@ -146,6 +146,6 @@ function isRiccoEnterable()
     end
 end
 
-function Ricco4()
-    return 
+function Ricco47()
+    return has("hover")
 end
