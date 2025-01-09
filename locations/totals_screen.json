@@ -275,6 +275,86 @@
                 "sections": [
                     {
                         "ref": "Ricco Harbor/Episode 1/Gooper Blooper Breaks Out"
+                    },
+                    {
+                        "name": "M Graffiti on Floor by Tower",
+                        "ref": "Ricco Harbor Blue Coins/Tower Ground M/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti on Garage Wall",
+                        "ref": "Ricco Harbor Blue Coins/Spawn Building Side M/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti Inside Ship",
+                        "ref": "Ricco Harbor Blue Coins/Inner Ship M/Blue Coin"
+                    },
+                    {
+                        "name": "Raise Yellow Submarine",
+                        "ref": "Ricco Harbor Blue Coins/Yellow Submarine/Blue Coin"
+                    },
+                    {
+                        "name": "Spray Wall by Ricco Tower",
+                        "ref": "Ricco Harbor Blue Coins/Tower Wall/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti on Ship Hull",
+                        "ref": "Ricco Harbor Blue Coins/Outer Ship M/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti on Top of Garage",
+                        "ref": "Ricco Harbor Blue Coins/Spawn Building Top M/Blue Coin"
+                    },
+                    {
+                        "name": "X Graffiti by Fruit Machine",
+                        "ref": "Ricco Harbor Blue Coins/Fruit Machine X/Blue Coin"
+                    },
+                    {
+                        "name": "X Graffiti on Ricco Tower",
+                        "ref": "Ricco Harbor Blue Coins/Tower Wall/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti on Rooftop",
+                        "ref": "Ricco Harbor Blue Coins/Rooftop M/Blue Coin"
+                    },
+                    {
+                        "name": "Scaffolding Beam Above Crane",
+                        "ref": "Ricco Harbor Blue Coins/Short Beam/Blue Coin"
+                    },
+                    {
+                        "name": "Scaffolding Platform by Ricco Tower",
+                        "ref": "Ricco Harbor Blue Coins/Tower Platform/Blue Coin"
+                    },
+                    {
+                        "name": "Scaffolding Beam by Ricco Tower",
+                        "ref": "Ricco Harbor Blue Coins/Long Beam/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti on Far Cliff",
+                        "ref": "Ricco Harbor Blue Coins/Far Ledge M/Blue Coin"
+                    },
+                    {
+                        "name": "Atop Crane",
+                        "ref": "Ricco Harbor Blue Coins/Crane/Blue Coin"
+                    },
+                    {
+                        "name": "In the Air in Open Water",
+                        "ref": "Ricco Harbor Blue Coins/Blooper Open Water/Blue Coin"
+                    },
+                    {
+                        "name": "In the Air Off Scaffolding Beam",
+                        "ref": "Ricco Harbor Blue Coins/Off Catwalk/Blue Coin"
+                    },
+                    {
+                        "name": "Above Foutain",
+                        "ref": "Ricco Harbor Blue Coins/Fountain/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti by Fountain",
+                        "ref": "Ricco Harbor Blue Coins/Fountain/Blue Coin"
+                    },
+                    {
+                        "name": "Destroy Crate by Ricco Tower",
+                        "ref": "Ricco Harbor Blue Coins/Tower Crate/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -290,6 +370,10 @@
                 "sections": [
                     {
                         "ref": "Ricco Harbor/Episode 2/Blooper Surfing Safari"
+                    },
+                    {
+                        "name": "Blooper Underground Entrance",
+                        "ref": "Ricco Harbor Blue Coins/Blooper Underground Entrance/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -305,6 +389,18 @@
                 "sections": [
                     {
                         "ref": "Ricco Harbor/Episode 3/The Caged Shine Sprite"
+                    },
+                    {
+                        "name": "In the Air Above Ricco Tower",
+                        "ref": "Ricco Harbor Blue Coins/Towe Rocket/Blue Coin"
+                    },
+                    {
+                        "name": "Defeat Mesh Wall Klamber",
+                        "ref": "Ricco Harbor Blue Coins/Mesh Wall Klamber/Blue Coin"
+                    },
+                    {
+                        "name": "Defeat Mesh Ceiling Klamber",
+                        "ref": "Ricco Harbor Blue Coins/Mesh Ceiling Klamber/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -320,6 +416,10 @@
                 "sections": [
                     {
                         "ref": "Ricco Harbor/Episode 4/The Secret of Ricco Tower"
+                    },
+                    {
+                        "name": "Defeat Caged Blooper",
+                        "ref": "Ricco Harbor Blue Coins/Caged Blooper/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -380,6 +480,22 @@
                 "sections": [
                     {
                         "ref": "Ricco Harbor/Episode 8/Yoshi's Fruit Adventure"
+                    },
+                    {
+                        "name": "Blue Butterfly Flock",
+                        "ref": "Ricco Harbor Blue Coins/Blue Butterflies/Blue Coin"
+                    },
+                    {
+                        "name": "Eat Tower Wall Klamber",
+                        "ref": "Ricco Harbor Blue Coins/Wall Klamber/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti by Yellow Goo Cage",
+                        "ref": "Ricco Harbor Blue Coins/High Platform M/Blue Coin"
+                    },
+                    {
+                        "name": "Spray Fish Basket",
+                        "ref": "Ricco Harbor Blue Coins/Fish Basket/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -425,6 +541,10 @@
                 "sections": [
                     {
                         "ref": "Gelato Beach/Episode 1/Dune Bud Sand Castle Secret"
+                    },
+                    {
+                        "name": "Stomp Red Cataquack",
+                        "ref": "Gelato Beach Blue Coins/Red Cataquack/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -470,6 +590,22 @@
                 "sections": [
                     {
                         "ref": "Gelato Beach/Episode 4/The Sand Bird is Born"
+                    },
+                    {
+                        "name": "Sand Bird A",
+                        "ref": "Gelato Beach Blue Coins/Sand Bird A/Blue Coin"
+                    },
+                    {
+                        "name": "Sand Bird B",
+                        "ref": "Gelato Beach Blue Coins/Sand Bird B/Blue Coin"
+                    },
+                    {
+                        "name": "Sand Bird C",
+                        "ref": "Gelato Beach Blue Coins/Sand Bird C/Blue Coin"
+                    },
+                    {
+                        "name": "Sand Bird D",
+                        "ref": "Gelato Beach Blue Coins/Sand Bird D/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -500,6 +636,14 @@
                 "sections": [
                     {
                         "ref": "Gelato Beach/Episode 6/Red Coins in the Coral Reef"
+                    },
+                    {
+                        "name": "Yellow Goo Dune Bud",
+                        "ref": "Gelato Beach Blue Coins/Yellow Goo Dune Bud/Blue Coin"
+                    },
+                    {
+                        "name": "Beehive",
+                        "ref": "Gelato Beach Blue Coins/Beehive/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -590,6 +734,30 @@
                 "sections": [
                     {
                         "ref": "Pinna Park/Episode 2/The Beach Cannon's Secret"
+                    },
+                    {
+                        "name": "Explode Spawn Basket",
+                        "ref": "Pinna Park Blue Coins/Spawn Basket/Blue Coin"
+                    },
+                    {
+                        "name": "Explode Furthest Basket",
+                        "ref": "Pinna Park Blue Coins/Flower Basket/Blue Coin"
+                    },
+                    {
+                        "name": "Explode Basket by Gate",
+                        "ref": "Pinna Park Blue Coins/Gate Basket/Blue Coin"
+                    },
+                    {
+                        "name": "Explode Basket by Rock Bend",
+                        "ref": "Pinna Park Blue Coins/Rock Basket/Blue Coin"
+                    },
+                    {
+                        "name": "Explode Open Basket",
+                        "ref": "Pinna Park Blue Coins/Middile Basket/Blue Coin"
+                    },
+                    {
+                        "name": "Explode Basket by Sunflowers",
+                        "ref": "Pinna Park Blue Coins/Sunflower Basket/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -650,6 +818,10 @@
                 "sections": [
                     {
                         "ref": "Pinna Park/Episode 6/The Yoshi-Go-Round's Secret"
+                    },
+                    {
+                        "name": "Park Blue Butterfly",
+                        "ref": "Pinna Park Blue Coins/Park Blue Butterfly/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -725,6 +897,14 @@
                 "sections": [
                     {
                         "ref": "Sirena Beach/Episode 1/The Manta Storm"
+                    },
+                    {
+                        "name": "Clean Male Noki",
+                        "ref": "Sirena Beach Blue Coins/Episode 1 Male Noki/Blue Coin"
+                    },
+                    {
+                        "name": "Clean Female Noki",
+                        "ref": "Sirena Beach Blue Coins/Episode 1 Female Noki/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -740,6 +920,26 @@
                 "sections": [
                     {
                         "ref": "Sirena Beach/Episode 2/The Hotel Lobby's Secret"
+                    },
+                    {
+                        "name": "Spray Sign by ",
+                        "ref": "Sirena Beach Blue Coins/Sign/Blue Coin"
+                    },
+                    {
+                        "name": "Inside Cabana Roof",
+                        "ref": "Sirena Beach Blue Coins/Cabana Roof/Blue Coin"
+                    },
+                    {
+                        "name": "Spray Torch Outside Hotel Entrance",
+                        "ref": "Sirena Beach Blue Coins/Outside Torch/Blue Coin"
+                    },
+                    {
+                        "name": "Hotel Back Ledge",
+                        "ref": "Sirena Beach Blue Coins/Hotel Ledge/Blue Coin"
+                    },
+                    {
+                        "name": "Spray Flower Patch",
+                        "ref": "Sirena Beach Blue Coins/Flowers/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -755,6 +955,34 @@
                 "sections": [
                     {
                         "ref": "Sirena Beach/Episode 3/Mysterious Hotel Delfino"
+                    },
+                    {
+                        "name": "Spray Central Light Fixture",
+                        "ref": "Sirena Beach Blue Coins/Central Light Fixture/Blue Coin"
+                    },
+                    {
+                        "name": "Spray Second Floor Lamp",
+                        "ref": "Sirena Beach Blue Coins/Second Floor Lamp/Blue Coin"
+                    },
+                    {
+                        "name": "Room Next to Pineapples",
+                        "ref": "Sirena Beach Blue Coins/Behind Pineapple Room/Blue Coin"
+                    },
+                    {
+                        "name": "Room Under Glass Table",
+                        "ref": "Sirena Beach Blue Coins/Under the Glass Table/Blue Coin"
+                    },
+                    {
+                        "name": "Room Behind Dolpic Poster",
+                        "ref": "Sirena Beach Blue Coins/Behind Dolpic Poster/Blue Coin"
+                    },
+                    {
+                        "name": "Spray Bookshelf",
+                        "ref": "Sirena Beach Blue Coins/Bookshelf/Blue Coin"
+                    },
+                    {
+                        "name": "Freestanding in Attic",
+                        "ref": "Sirena Beach Blue Coins/Attic/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -770,6 +998,18 @@
                 "sections": [
                     {
                         "ref": "Sirena Beach/Episode 4/The Secret of Casino Delfino"
+                    },
+                    {
+                        "name": "Spray Piant Torch in Casino",
+                        "ref": "Sirena Beach Blue Coins/Casino Torch/Blue Coin"
+                    },
+                    {
+                        "name": "Ground Pound Slot Machine",
+                        "ref": "Sirena Beach Blue Coins/Shot Machine/Blue Coin"
+                    },
+                    {
+                        "name": "Destroy Pinapple Room Crate",
+                        "ref": "Sirena Beach Blue Coins/Crate/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -785,6 +1025,10 @@
                 "sections": [
                     {
                         "ref": "Sirena Beach/Episode 5/King Boo Down Below"
+                    },
+                    {
+                        "name": "M Graffiti Above Casino Entrance",
+                        "ref": "Sirena Beach Blue Coins/Casino M/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -800,6 +1044,14 @@
                 "sections": [
                     {
                         "ref": "Sirena Beach/Episode 6/Scrubbing Sirena Beach"
+                    },
+                    {
+                        "name": "Clean Green Male Noki",
+                        "ref": "Sirena Beach Blue Coins/Episode 6 Male Noki/Blue Coin"
+                    },
+                    {
+                        "name": "Clean Green Female Noki",
+                        "ref": "Sirena Beach Blue Coins/Episode 6 Female Noki/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -815,6 +1067,34 @@
                 "sections": [
                     {
                         "ref": "Sirena Beach/Episode 7/Shadow Mario Checks In"
+                    },
+                    {
+                        "name": "M Graffiti Outside Hotel",
+                        "ref": "Sirena Beach Blue Coins/Outside M/Blue Coin"
+                    },
+                    {
+                        "name": "Triangle Graffiti on Ground Floor",
+                        "ref": "Sirena Beach Blue Coins/Ground Floor Triange/Blue Coin"
+                    },
+                    {
+                        "name": "Triangle Graffiti on First Floor",
+                        "ref": "Sirena Beach Blue Coins/First Floor Triange/Blue Coin"
+                    },
+                    {
+                        "name": "X Graffiti on First Floor",
+                        "ref": "Sirena Beach Blue Coins/First Floor X/Blue Coin"
+                    },
+                    {
+                        "name": "X Graffiti on Second Floor",
+                        "ref": "Sirena Beach Blue Coins/Second Floor X/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti on Second Floor",
+                        "ref": "Sirena Beach Blue Coins/Second Floor M/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti in Attic",
+                        "ref": "Sirena Beach Blue Coins/Attic M/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -875,6 +1155,26 @@
                 "sections": [
                     {
                         "ref": "Noki Bay/Episode 1/Uncork the Waterfall"
+                    },
+                    {
+                        "name": "Secret Path by Bottom Pulley",
+                        "ref": "Noki Bay Blue Coins/Bottom Pulley/Blue Coin"
+                    },
+                    {
+                        "name": "Secret Path by Top Pulley",
+                        "ref": "Noki Bay Blue Coins/Top Pulley/Blue Coin"
+                    },
+                    {
+                        "name": "Wall Jump Up Tall Alcove",
+                        "ref": "Noki Bay Blue Coins/Tall Alcove/Blue Coin"
+                    },
+                    {
+                        "name": "In the Air by Rocket Nozzle Box",
+                        "ref": "Noki Bay Blue Coins/Rocket/Blue Coin"
+                    },
+                    {
+                        "name": "Alcove Above Rocket Nozzle Box",
+                        "ref": "Noki Bay Blue Coins/Rocket Alcove/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -890,6 +1190,30 @@
                 "sections": [
                     {
                         "ref": "Noki Bay/Episode 2/The Boss of Tricky Ruins"
+                    },
+                    {
+                        "name": "Center of Bottom Secret Path",
+                        "ref": "Noki Bay Blue Coins/Bottom Secret Path/Blue Coin"
+                    },
+                    {
+                        "name": "Alcove in Top Secret Path",
+                        "ref": "Noki Bay Blue Coins/Top Secret Path/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti by Top Secret Path",
+                        "ref": "Noki Bay Blue Coins/M/Blue Coin"
+                    },
+                    {
+                        "name": "Open Water by Spawn",
+                        "ref": "Noki Bay Blue Coins/Spawn/Blue Coin"
+                    },
+                    {
+                        "name": "Open Water by Secret Wall Ruins",
+                        "ref": "Noki Bay Blue Coins/Coast/Blue Coin"
+                    },
+                    {
+                        "name": "Underwater by Waterfall",
+                        "ref": "Noki Bay Blue Coins/Coast/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -920,6 +1244,22 @@
                 "sections": [
                     {
                         "ref": "Noki Bay/Episode 4/Eely-Mouth's Dentist"
+                    },
+                    {
+                        "name": "Underwater Ruins Front Pillar",
+                        "ref": "Noki Bay Blue Coins/Front Pillar/Blue Coin"
+                    },
+                    {
+                        "name": "Underwater Ruins Right Pillar",
+                        "ref": "Noki Bay Blue Coins/Right Pillar/Blue Coin"
+                    },
+                    {
+                        "name": "Underwater Ruins Close Left Pillar",
+                        "ref": "Noki Bay Blue Coins/Close Left Pillar/Blue Coin"
+                    },
+                    {
+                        "name": "Underwater Ruins Far Left Pillar",
+                        "ref": "Noki Bay Blue Coins/Far Left Pillar/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -950,6 +1290,22 @@
                 "sections": [
                     {
                         "ref": "Noki Bay/Episode 6/The Shell's Secret"
+                    },
+                    {
+                        "name": "Turbo Nozzle Box Alcove",
+                        "ref": "Noki Bay Blue Coins/Turbo Alcove/Blue Coin"
+                    },
+                    {
+                        "name": "O Graffiti by Boathouse",
+                        "ref": "Noki Bay Blue Coins/Boathouse O/Blue Coin"
+                    },
+                    {
+                        "name": "O Graffiti by Pools",
+                        "ref": "Noki Bay Blue Coins/Spawn O/Blue Coin"
+                    },
+                    {
+                        "name": "Alcove by Conch Shell",
+                        "ref": "Noki Bay Blue Coins/Shell Alcove/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -1010,6 +1366,42 @@
                 "sections": [
                     {
                         "ref": "Noki Bay/Secret Shine/A Golden Bird"
+                    },
+                    {
+                        "name": "Secret Wall Ruins Peak Top Right Panel",
+                        "ref": "Noki Bay Blue Coins/Top Right Panel/Blue Coin"
+                    },
+                    {
+                        "name": "Secret Wall Ruins Peak Bottom Left Panel",
+                        "ref": "Noki Bay Blue Coins/Bottom Left Panel/Blue Coin"
+                    },
+                    {
+                        "name": "Secret Wall Ruins Top Right Tunnel",
+                        "ref": "Noki Bay Blue Coins/Top Right Tunnel/Blue Coin"
+                    },
+                    {
+                        "name": "Secret Wall Ruins Bottom Right Tunnel",
+                        "ref": "Noki Bay Blue Coins/Bottom Right Tunnel/Blue Coin"
+                    },
+                    {
+                        "name": "Secret Wall Ruins Left Tunnel",
+                        "ref": "Noki Bay Blue Coins/Left Tunnel/Blue Coin"
+                    },
+                    {
+                        "name": "Secret Wall Ruins Bottom Left Alcove",
+                        "ref": "Noki Bay Blue Coins/Bottom Left Alcove/Blue Coin"
+                    },
+                    {
+                        "name": "Secret Wall Ruins Bottom Right Alcove",
+                        "ref": "Noki Bay Blue Coins/Bottom Right Alcove/Blue Coin"
+                    },
+                    {
+                        "name": "Golden Bird Cliff Alcove",
+                        "ref": "Noki Bay Blue Coins/Bird Cliff Alcove/Blue Coin"
+                    },
+                    {
+                        "name": "Golden Bird Cliff Panel",
+                        "ref": "Noki Bay Blue Coins/Bird Cliff Panel/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -1025,6 +1417,54 @@
                 "sections": [
                     {
                         "ref": "Pianta Village/Episode 1/Chain Chomplets Unchained"
+                    },
+                    {
+                        "name": "Spray Moon from Golden Mushroom",
+                        "ref": "Pianta Village Blue Coins/Moon/Blue Coin"
+                    },
+                    {
+                        "name": "Ground Pound Hot Spring Statue's Nose",
+                        "ref": "Pianta Village Blue Coins/Statue's Nose/Blue Coin"
+                    },
+                    {
+                        "name": "River's End",
+                        "ref": "Pianta Village Blue Coins/River End/Blue Coin"
+                    },
+                    {
+                        "name": "Under River Bridge",
+                        "ref": "Pianta Village Blue Coins/River Bridge/Blue Coin"
+                    },
+                    {
+                        "name": "Left Tree Platform",
+                        "ref": "Pianta Village Blue Coins/Left Tree/Blue Coin"
+                    },
+                    {
+                        "name": "Spray Waterfall Mouth",
+                        "ref": "Pianta Village Blue Coins/Waterfall/Blue Coin"
+                    },
+                    {
+                        "name": "Triangle Graffiti on Wall",
+                        "ref": "Pianta Village Blue Coins/Wall Triangle/Blue Coin"
+                    },
+                    {
+                        "name": "Triangle Graffiti by Hot Tub",
+                        "ref": "Pianta Village Blue Coins/Hot Tub Triangle/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti on Left Side",
+                        "ref": "Pianta Village Blue Coins/Left Side/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti on Right Side",
+                        "ref": "Pianta Village Blue Coins/Right Side/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti Behind Spawn",
+                        "ref": "Pianta Village Blue Coins/Spawn M/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti in Underside",
+                        "ref": "Pianta Village Blue Coins/Underside M/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -1040,6 +1480,10 @@
                 "sections": [
                     {
                         "ref": "Pianta Village/Episode 2/Il Piantissimo's Crazy Climb"
+                    },
+                    {
+                        "name": "Spray Sign",
+                        "ref": "Pianta Village Blue Coins/Sign/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -1055,6 +1499,18 @@
                 "sections": [
                     {
                         "ref": "Pianta Village/Episode 3/The Goopy Inferno"
+                    },
+                    {
+                        "name": "Help the Burning Pianta",
+                        "ref": "Pianta Village Blue Coins/Burning Pianta/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti Underneath F.L.U.D.D.",
+                        "ref": "Pianta Village Blue Coins/F.L.U.D.D. M/Blue Coin"
+                    },
+                    {
+                        "name": "Giant M Graffiti Under Goop",
+                        "ref": "Pianta Village Blue Coins/Giant M/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -1085,6 +1541,18 @@
                 "sections": [
                     {
                         "ref": "Pianta Village/Episode 5/Secret of the Village Underside"
+                    },
+                    {
+                        "name": "Front Beehive",
+                        "ref": "Pianta Village Blue Coins/Front Beehive/Blue Coin"
+                    },
+                    {
+                        "name": "Back Beehive",
+                        "ref": "Pianta Village Blue Coins/Back Beehive/Blue Coin"
+                    },
+                    {
+                        "name": "Blue Butterfly Flock",
+                        "ref": "Pianta Village Blue Coins/Blue Butterfly Flock/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -1100,6 +1568,38 @@
                 "sections": [
                     {
                         "ref": "Pianta Village/Episode 6/Pianta's in Need"
+                    },
+                    {
+                        "name": "Pianta in Need A",
+                        "ref": "Pianta Village Blue Coins/Pianta in Need A/Blue Coin"
+                    },
+                    {
+                        "name": "Pianta in Need B",
+                        "ref": "Pianta Village Blue Coins/Pianta in Need B/Blue Coin"
+                    },
+                    {
+                        "name": "Pianta in Need C",
+                        "ref": "Pianta Village Blue Coins/Pianta in Need C/Blue Coin"
+                    },
+                    {
+                        "name": "Pianta in Need D",
+                        "ref": "Pianta Village Blue Coins/Pianta in Need D/Blue Coin"
+                    },
+                    {
+                        "name": "Pianta in Need E",
+                        "ref": "Pianta Village Blue Coins/Pianta in Need E/Blue Coin"
+                    },
+                    {
+                        "name": "Pianta in Need F",
+                        "ref": "Pianta Village Blue Coins/Pianta in Need F/Blue Coin"
+                    },
+                    {
+                        "name": "Pianta in Need G",
+                        "ref": "Pianta Village Blue Coins/Pianta in Need G/Blue Coin"
+                    },
+                    {
+                        "name": "Pianta in Need H",
+                        "ref": "Pianta Village Blue Coins/Pianta in Need H/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -1130,6 +1630,10 @@
                 "sections": [
                     {
                         "ref": "Pianta Village/Episode 8/Fluff Festival Coin Hunt"
+                    },
+                    {
+                        "name": "Blue Bird",
+                        "ref": "Pianta Village Blue Coins/Blue Bird/Blue Coin"
                     }
                 ],
                 "map_locations": [
