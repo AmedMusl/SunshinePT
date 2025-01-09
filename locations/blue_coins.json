@@ -413,6 +413,7 @@
       "chest_unopened_img": "images/items/Blue_Coin.png",
       "chest_opened_img": "images/items/Blue_Coin_Grey.png",
       "access_rules":["$isBiancoEnterable"],
+      "visibility_rules":["blues_on"],
       "children": [
           {
               "name": "Windmill M",
@@ -1020,6 +1021,7 @@
       "name": "Ricco Harbor Blue Coins",
       "chest_unopened_img": "images/items/Blue_Coin.png",
       "chest_opened_img": "images/items/Blue_Coin_Grey.png",
+      "visibility_rules":["blues_on"],
       "children": [
         {
           "name": "Tower Wall",
@@ -2235,6 +2237,7 @@
     "name": "Pinna Park Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
+    "visibility_rules":["blues_on"],
     "children": [
       {
         "name": "Tree Sand Shine",
@@ -2842,6 +2845,7 @@
     "name": "Sirena Beach Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
+    "visibility_rules":["blues_on"],
     "children": [
       {
         "name": "Ocean",
@@ -3461,6 +3465,7 @@
     "name": "Noki Bay Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
+    "visibility_rules":["blues_on"],
     "children": [
       {
         "name": "Rocket Alcove",
@@ -4074,6 +4079,7 @@
     "name": "Pianta Village Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
+    "visibility_rules":["blues_on"],
     "children": [
       {
         "name": "Spawn M",
