@@ -186,3 +186,148 @@ function isPiantaEnterable()
         return shines() >= 10 and has("rocket")
     end
 end
+
+-- Boathouse
+
+function BH1()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 10
+    end
+end
+
+function BH2()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 20
+    end
+end
+
+function BH3()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 30
+    end
+end
+
+function BH4()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 40
+    end
+end
+function BH5()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 50
+    end
+end
+
+function BH6()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 60
+    end
+end
+
+function BH7()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 70
+    end
+end
+
+function BH8()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 80
+    end
+end
+
+function BH9()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 90
+    end
+end
+
+function BH10()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 100
+    end
+end
+
+function BH11()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 110
+    end
+end
+
+function BH12()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 120
+    end
+end
+
+function BH13()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 130
+    end
+end
+
+function BH14()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 140
+    end
+end
+
+function BH15()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 150
+    end
+end
+
+function BH16()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 160
+    end
+end
+
+function BH17()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 170
+    end
+end
+
+function BH18()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 180
+    end
+end
+
+function BH19()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 190
+    end
+end
+
+function BH20()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 200
+    end
+end
+
+function BH21()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 210
+    end
+end
+
+function BH22()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 220
+    end
+end
+
+function BH23()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 230
+    end
+end
+
+function BH24()
+    if has("blues") == has("blues_on") or has("blues_boathouse") then
+        return blues() >= 240
+    end
+end

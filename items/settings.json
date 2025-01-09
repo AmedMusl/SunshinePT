@@ -26,7 +26,7 @@
             {
                 "img": "images/settings/Boathouse.png",
                 "name": "Boathouse Only",
-                "codes": "blues_boathouse",
+                "codes": "blues,blues_boathouse",
                 "inherit_codes": false
             }
         ]
