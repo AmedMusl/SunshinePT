@@ -84,19 +84,19 @@
     {
         "name": "Yoshi Mode",
         "type": "progressive",
-        "loop": false,
+        "loop": true,
         "allow_disabled": false,
         "stages": [
             {
-                "img": "images/settings/Yoshidisabled.png",
-                "name": "Yoshi Disabled",
-                "codes": "yoshistart,yoshidisabled",
+                "img": "images/settings/skip_pinna.png",
+                "name": "Skip Pinna Yoshi",
+                "codes": "yoshistart,skip_pinna",
                 "inherit_codes": false
             },
             {
                 "img": "images/settings/Yoshi_Mode.png",
-                "name": "Yoshi in Pool",
-                "codes": "yoshistart,yoshienabled",
+                "name": "Plaza Only Yoshi",
+                "codes": "yoshistart,plaza_only",
                 "inherit_codes": false
             }
         ]

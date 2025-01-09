@@ -3,6 +3,7 @@
     "name": "Delfino Plaza Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
+    "visibility_rules":["blues_on"],
     "children": [
       {
         "name": "Turbo Pillar",
@@ -1624,6 +1625,7 @@
     "name": "Gelato Beach Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
+    "visibility_rules":["blues_on"],
     "children": [
       {
         "name": "Juicer",
