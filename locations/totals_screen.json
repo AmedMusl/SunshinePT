@@ -297,6 +297,10 @@
                         "ref": "Ricco Harbor Blue Coins/Tower Wall/Blue Coin"
                     },
                     {
+                        "name": "Destroy Crate by Ricco Tower",
+                        "ref": "Ricco Harbor Blue Coins/Tower Crate/Blue Coin"
+                    },
+                    {
                         "name": "M Graffiti on Ship Hull",
                         "ref": "Ricco Harbor Blue Coins/Outer Ship M/Blue Coin"
                     },
@@ -317,32 +321,8 @@
                         "ref": "Ricco Harbor Blue Coins/Rooftop M/Blue Coin"
                     },
                     {
-                        "name": "Scaffolding Beam Above Crane",
-                        "ref": "Ricco Harbor Blue Coins/Short Beam/Blue Coin"
-                    },
-                    {
-                        "name": "Scaffolding Platform by Ricco Tower",
-                        "ref": "Ricco Harbor Blue Coins/Tower Platform/Blue Coin"
-                    },
-                    {
-                        "name": "Scaffolding Beam by Ricco Tower",
-                        "ref": "Ricco Harbor Blue Coins/Long Beam/Blue Coin"
-                    },
-                    {
-                        "name": "M Graffiti on Far Cliff",
-                        "ref": "Ricco Harbor Blue Coins/Far Ledge M/Blue Coin"
-                    },
-                    {
                         "name": "Atop Crane",
                         "ref": "Ricco Harbor Blue Coins/Crane/Blue Coin"
-                    },
-                    {
-                        "name": "In the Air in Open Water",
-                        "ref": "Ricco Harbor Blue Coins/Blooper Open Water/Blue Coin"
-                    },
-                    {
-                        "name": "In the Air Off Scaffolding Beam",
-                        "ref": "Ricco Harbor Blue Coins/Off Catwalk/Blue Coin"
                     },
                     {
                         "name": "Above Foutain",
@@ -351,10 +331,6 @@
                     {
                         "name": "M Graffiti by Fountain",
                         "ref": "Ricco Harbor Blue Coins/Fountain/Blue Coin"
-                    },
-                    {
-                        "name": "Destroy Crate by Ricco Tower",
-                        "ref": "Ricco Harbor Blue Coins/Tower Crate/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -401,6 +377,18 @@
                     {
                         "name": "Defeat Mesh Ceiling Klamber",
                         "ref": "Ricco Harbor Blue Coins/Mesh Ceiling Klamber/Blue Coin"
+                    },
+                    {
+                        "name": "Scaffolding Beam Above Crane",
+                        "ref": "Ricco Harbor Blue Coins/Short Beam/Blue Coin"
+                    },
+                    {
+                        "name": "Scaffolding Beam by Ricco Tower",
+                        "ref": "Ricco Harbor Blue Coins/Long Beam/Blue Coin"
+                    },
+                    {
+                        "name": "In the Air Off Scaffolding Beam",
+                        "ref": "Ricco Harbor Blue Coins/Off Catwalk/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -420,6 +408,10 @@
                     {
                         "name": "Defeat Caged Blooper",
                         "ref": "Ricco Harbor Blue Coins/Caged Blooper/Blue Coin"
+                    },
+                    {
+                        "name": "Scaffolding Platform by Ricco Tower",
+                        "ref": "Ricco Harbor Blue Coins/Tower Platform/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -450,6 +442,10 @@
                 "sections": [
                     {
                         "ref": "Ricco Harbor/Episode 6/Red Coins on the Water"
+                    },
+                    {
+                        "name": "In the Air in Open Water",
+                        "ref": "Ricco Harbor Blue Coins/Blooper Open Water/Blue Coin"
                     }
                 ],
                 "map_locations": [
@@ -488,6 +484,10 @@
                     {
                         "name": "Eat Tower Wall Klamber",
                         "ref": "Ricco Harbor Blue Coins/Wall Klamber/Blue Coin"
+                    },
+                    {
+                        "name": "M Graffiti on Far Cliff",
+                        "ref": "Ricco Harbor Blue Coins/Far Ledge M/Blue Coin"
                     },
                     {
                         "name": "M Graffiti by Yellow Goo Cage",
