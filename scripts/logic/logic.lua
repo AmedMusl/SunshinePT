@@ -103,6 +103,7 @@ function squirter()
     return has("spray") or has("yoshi")
 end
 
+
 function skipintro()
     return has("nozzlefluddless")
 end
@@ -157,5 +158,31 @@ function isGelatoEnterable()
         return has("gelato")
     elseif has("progression") == has("progression_vanilla") then
         return has("fludd") and shines() >= 5
+    end
+end
+
+--Sirena
+
+function sirena38()
+    return (has("fludd") or has("hover")) and yoshi()
+end
+
+--Noki
+
+function isNokiEnterable()
+    if has("progression") == has("progression_ticket") then
+        return has("noki")
+    elseif has("progression") == has("progression_vanilla") then
+        return shines() >= 20
+    end
+end
+
+-- Pianta
+
+function isPiantaEnterable()
+    if has("progression") == has("progression_ticket") then
+        return has("pianta") and has("rocket")
+    elseif has("progression") == has("progression_vanilla") then
+        return shines() >= 10 and has("rocket")
     end
 end
