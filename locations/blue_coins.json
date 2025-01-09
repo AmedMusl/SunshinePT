@@ -4365,8 +4365,8 @@
         "map_locations": [
           {
             "map": "Pianta Village",
-            "x": 1671,
-            "y": 1530,
+            "x": 1567,
+            "y": 1606,
             "size": 16
           }
         ]
@@ -4605,8 +4605,8 @@
         "map_locations": [
           {
             "map": "Pianta Village",
-            "x": 1563,
-            "y": 1609,
+            "x": 1391,
+            "y": 1127,
             "size": 16
           }
         ]
@@ -4625,8 +4625,8 @@
         "map_locations": [
           {
             "map": "Pianta Village",
-            "x": 1640,
-            "y": 1525,
+            "x": 1642,
+            "y": 1520,
             "size": 16
           }
         ]
