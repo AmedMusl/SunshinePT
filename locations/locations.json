@@ -413,7 +413,7 @@
       {
         "name": "Episode 5",
         "access_rules": [
-          "$Bianco5"
+          "$Bianco4"
         ],
         "sections": [
           {
@@ -433,7 +433,7 @@
       {
         "name": "Episode 6",
         "access_rules": [
-          "$Bianco6"
+          "$Bianco4"
         ],
         "sections": [
           {
@@ -458,7 +458,7 @@
       {
         "name": "Episode 7",
         "access_rules": [
-          "$Bianco6"
+          "$Bianco4"
         ],
         "sections": [
           {
@@ -477,7 +477,7 @@
       {
         "name": "Episode 8",
         "access_rules": [
-          "$Bianco6"
+          "$Bianco4"
         ],
         "sections": [
           {

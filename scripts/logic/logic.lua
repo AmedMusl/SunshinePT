@@ -125,16 +125,12 @@ function isBiancoEnterable()
     end
 end
 
+function Bianco3()
+    return has("fludd") and has("$spray")
+end
+
 function Bianco4()
     return has("fludd") and has("hover") or has("rocket")
-end
-
-function Bianco5()
-    return has("fludd") and has("hover") or has("rocket")
-end
-
-function Bianco6()
-    return has("fludd") and has("hover") and has("rocket")
 end
 
 -- Ricco
