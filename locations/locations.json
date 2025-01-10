@@ -1015,7 +1015,7 @@
       {
         "name": "Episode 7",
         "access_rules": [
-          "$spray, $hover"
+          "$spray, $hover, $yoshi"
         ],
         "sections": [
           {
@@ -1034,7 +1034,7 @@
       {
         "name": "Episode 8",
         "access_rules": [
-          "$spray, $hover"
+          "$spray, $hover, $yoshi"
         ],
         "sections": [
           {
@@ -1056,7 +1056,7 @@
     "name": "Sirena Beach",
     "chest_unopened_img": "images/items/Shine_Sprite.png",
     "chest_opened_img": "images/items/Shine_Sprite_Grey.png",
-    "access_rules":["yoshi"],
+    "access_rules":["$isSirenaEnterable"],
     "children": [
       {
         "name": "Episode 1",

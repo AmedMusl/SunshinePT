@@ -163,8 +163,12 @@ end
 
 --Sirena
 
-function sirena38()
-    return (has("fludd") or has("hover")) and yoshi()
+function isSirenaEnterable()
+    if has("progression") == has("progression_ticket") then
+        return has("sirena")
+    elseif has("progression") == has("progression_vanilla") then
+        return has("yoshi")
+    end
 end
 
 --Noki
