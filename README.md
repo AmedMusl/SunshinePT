@@ -8,11 +8,13 @@ Just download the latest build or source and put in your packs folder.
 
 ## More Info
 
-Check out the Sunshine Thread in AP server for more ingo
+Check out the Sunshine Thread in AP server for more info
 
 ## Future Plans
 
-Not really sure, I'd like to get some more features in soon, maybe like auto change map based on where you are in Sunshine
+- Figure out how to make Boathouse trades visible based on the maximum for Boathouse Trades
+- Find out how to autotrack tickets if level order is vanilla (if this is even possible?)
+- Maybe Auto Switching Maps based on what level you are
 
 ## Credits
 
