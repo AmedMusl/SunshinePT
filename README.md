@@ -4,7 +4,7 @@ This is a map tracker which includes all shine and blue coin locations for poptr
 
 ## Installation
 
-Just download the latest build or source and put in your packs folder (unpacked).
+Just download the latest build or source and put in your packs folder.
 
 ## More Info
 
