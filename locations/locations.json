@@ -812,6 +812,7 @@
         "sections": [
           {
             "name": "Red Coins in the Coral Reef",
+            "access_rules":["$hover", "$turbo"],
             "item_count": 1
           }
         ],
@@ -1124,7 +1125,7 @@
       {
         "name": "Episode 4",
         "access_rules": [
-          "$sirena38"
+          "$yoshi"
         ],
         "sections": [
           {
@@ -1149,7 +1150,7 @@
       {
         "name": "Episode 5",
         "access_rules": [
-          "$sirena38"
+          "$yoshi"
         ],
         "sections": [
           {
@@ -1169,7 +1170,7 @@
       {
         "name": "Episode 6",
         "access_rules": [
-          "$sirena38"
+          "$yoshi"
         ],
         "sections": [
           {
@@ -1189,7 +1190,7 @@
       {
         "name": "Episode 7",
         "access_rules": [
-          "$sirena38"
+          "$yoshi"
         ],
         "sections": [
           {
@@ -1209,7 +1210,7 @@
       {
         "name": "Episode 8",
         "access_rules": [
-          "$sirena38"
+          "$yoshi"
         ],
         "sections": [
           {
