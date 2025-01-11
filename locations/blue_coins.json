@@ -3,7 +3,7 @@
     "name": "Delfino Plaza Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
-    "visibility_rules":["blues on", "blues_boathouse"],
+    "visibility_rules":["blues_on", "blues_boathouse"],
     "access_rules":["$skipintro", "$splasher"],
     "children": [
       {
@@ -413,7 +413,7 @@
       "chest_unopened_img": "images/items/Blue_Coin.png",
       "chest_opened_img": "images/items/Blue_Coin_Grey.png",
       "access_rules":["$isBiancoEnterable"],
-      "visibility_rules":["blues on", "blues_boathouse"],
+      "visibility_rules":["blues_on", "blues_boathouse"],
       "children": [
           {
               "name": "Windmill M",
@@ -1021,7 +1021,7 @@
       "name": "Ricco Harbor Blue Coins",
       "chest_unopened_img": "images/items/Blue_Coin.png",
       "chest_opened_img": "images/items/Blue_Coin_Grey.png",
-      "visibility_rules":["blues on", "blues_boathouse"],
+      "visibility_rules":["blues_on", "blues_boathouse"],
       "access_rules":["$isRiccoEnterable"],
       "children": [
         {
@@ -1630,7 +1630,8 @@
     "name": "Gelato Beach Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
-    "visibility_rules":["blues on", "blues_boathouse"],
+    "visibility_rules":["blues_on", "blues_boathouse"],
+    "access_rules":["isGelatoEnterable"],
     "children": [
       {
         "name": "Juicer",
@@ -2238,7 +2239,7 @@
     "name": "Pinna Park Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
-    "visibility_rules":["blues on", "blues_boathouse"],
+    "visibility_rules":["blues_on", "blues_boathouse"],
     "children": [
       {
         "name": "Tree Sand Shine",
@@ -2846,7 +2847,7 @@
     "name": "Sirena Beach Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
-    "visibility_rules":["blues on", "blues_boathouse"],
+    "visibility_rules":["blues_on", "blues_boathouse"],
     "access_rules":["isSirenaEnterable"],
     "children": [
       {
@@ -2912,7 +2913,7 @@
       {
         "name": "Sign",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2932,7 +2933,7 @@
       {
         "name": "Cabana Roof",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2952,7 +2953,7 @@
       {
         "name": "Hotel Ledge",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -2972,7 +2973,7 @@
       {
         "name": "Outside Torch",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -2992,7 +2993,7 @@
       {
         "name": "Flowers",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -3064,7 +3065,7 @@
       {
         "name": "Outside M",
         "access_rules": [
-          ""
+          "$spray, $yoshi"
         ],
         "sections": [
           {
@@ -3104,7 +3105,7 @@
       {
         "name": "Attic Boo",
         "access_rules": [
-          ""
+          "$spray, $yoshi"
         ],
         "sections": [
           {
@@ -3124,7 +3125,7 @@
       {
         "name": "Second Floor Lamp",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -3144,7 +3145,7 @@
       {
         "name": "Central Light Fixture",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -3164,7 +3165,7 @@
       {
         "name": "Behind Pineapple Room",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -3184,7 +3185,7 @@
       {
         "name": "Under the Glass Table",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -3204,7 +3205,7 @@
       {
         "name": "Behind Dolpic Poster",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -3224,7 +3225,7 @@
       {
         "name": "Bookshelf",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -3244,7 +3245,7 @@
       {
         "name": "Attic",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -3264,7 +3265,7 @@
       {
         "name": "Casino Torch",
         "access_rules": [
-          ""
+          "$spray, $yoshi"
         ],
         "sections": [
           {
@@ -3284,7 +3285,7 @@
       {
         "name": "Slot Machine",
         "access_rules": [
-          ""
+          "$yoshi"
         ],
         "sections": [
           {
@@ -3304,7 +3305,7 @@
       {
         "name": "Pineapple Room Crate",
         "access_rules": [
-          ""
+          "$yoshi"
         ],
         "sections": [
           {
@@ -3324,7 +3325,7 @@
       {
         "name": "Casino M",
         "access_rules": [
-          ""
+          "$spray, $yoshi"
         ],
         "sections": [
           {
@@ -3344,7 +3345,7 @@
       {
         "name": "Second Floor M",
         "access_rules": [
-          ""
+          "$spray, $yoshi"
         ],
         "sections": [
           {
@@ -3364,7 +3365,7 @@
       {
         "name": "Ground Floor Triangle",
         "access_rules": [
-          ""
+          "$spray, $yoshi"
         ],
         "sections": [
           {
@@ -3384,7 +3385,7 @@
       {
         "name": "First Floor Triangle",
         "access_rules": [
-          ""
+          "$spray, $yoshi"
         ],
         "sections": [
           {
@@ -3404,7 +3405,7 @@
       {
         "name": "Attic M",
         "access_rules": [
-          ""
+          "$spray, $yoshi"
         ],
         "sections": [
           {
@@ -3424,7 +3425,7 @@
       {
         "name": "Second Floor X",
         "access_rules": [
-          ""
+          "$spray, $yoshi"
         ],
         "sections": [
           {
@@ -3444,7 +3445,7 @@
       {
         "name": "First Floor X",
         "access_rules": [
-          ""
+          "$spray, $yoshi"
         ],
         "sections": [
           {
@@ -3467,7 +3468,8 @@
     "name": "Noki Bay Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
-    "visibility_rules":["blues on", "blues_boathouse"],
+    "visibility_rules":["blues_on", "blues_boathouse"],
+    "access_rules":["$isNokiEnterable"],
     "children": [
       {
         "name": "Rocket Alcove",
@@ -3918,7 +3920,7 @@
       {
         "name": "Right Urn",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3938,7 +3940,7 @@
       {
         "name": "Left Urn",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -3958,7 +3960,7 @@
       {
         "name": "Spawn O",
         "access_rules": [
-          ""
+          "$spray, $hover, $turbo"
         ],
         "sections": [
           {
@@ -3978,7 +3980,7 @@
       {
         "name": "Boathouse O",
         "access_rules": [
-          ""
+          "$spray, $hover, $turbo"
         ],
         "sections": [
           {
@@ -3998,7 +4000,7 @@
       {
         "name": "Front Pillar",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -4018,7 +4020,7 @@
       {
         "name": "Right Pillar",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -4038,7 +4040,7 @@
       {
         "name": "Close Left Pillar",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -4058,7 +4060,7 @@
       {
         "name": "Far Left Pillar",
         "access_rules": [
-          ""
+          "$spray, $hover"
         ],
         "sections": [
           {
@@ -4081,7 +4083,8 @@
     "name": "Pianta Village Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
-    "visibility_rules":["blues on", "blues_boathouse"],
+    "visibility_rules":["blues_on", "blues_boathouse"],
+    "access_rules":["$isPinnaEnterable"],
     "children": [
       {
         "name": "Spawn M",
@@ -4306,7 +4309,7 @@
       {
         "name": "F.L.U.D.D. M",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -4326,7 +4329,7 @@
       {
         "name": "Burning Pianta",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -4366,7 +4369,7 @@
       {
         "name": "Front Beehive",
         "access_rules": [
-          ""
+          "$spray, $yoshi, $height"
         ],
         "sections": [
           {
@@ -4386,7 +4389,7 @@
       {
         "name": "Blue Butterfly Flock",
         "access_rules": [
-          ""
+          "$spray, $yoshi, $height"
         ],
         "sections": [
           {
@@ -4406,7 +4409,7 @@
       {
         "name": "Back Beehive",
         "access_rules": [
-          ""
+          "$spray, $yoshi, $height"
         ],
         "sections": [
           {
@@ -4446,7 +4449,7 @@
       {
         "name": "Pianta in Need A",
         "access_rules": [
-          ""
+          "$spray, $yoshi, $height"
         ],
         "sections": [
           {
@@ -4466,7 +4469,7 @@
       {
         "name": "Pianta in Need H",
         "access_rules": [
-          ""
+          "$spray, $yoshi, $height"
         ],
         "sections": [
           {
@@ -4486,7 +4489,7 @@
       {
         "name": "Pianta in Need G",
         "access_rules": [
-          ""
+          "$spray, $yoshi, $height"
         ],
         "sections": [
           {
@@ -4506,7 +4509,7 @@
       {
         "name": "Pianta in Need F",
         "access_rules": [
-          ""
+          "$spray, $yoshi, $height"
         ],
         "sections": [
           {
@@ -4526,7 +4529,7 @@
       {
         "name": "Pianta in Need E",
         "access_rules": [
-          ""
+          "$spray, $yoshi, $height"
         ],
         "sections": [
           {
@@ -4546,7 +4549,7 @@
       {
         "name": "Pianta in Need B",
         "access_rules": [
-          ""
+          "$spray, $yoshi, $height"
         ],
         "sections": [
           {
@@ -4566,7 +4569,7 @@
       {
         "name": "Pianta in Need D",
         "access_rules": [
-          ""
+          "$spray, $yoshi, $height"
         ],
         "sections": [
           {
@@ -4586,7 +4589,7 @@
       {
         "name": "Pianta in Need C",
         "access_rules": [
-          ""
+          "$spray, $yoshi, $height"
         ],
         "sections": [
           {
@@ -4626,7 +4629,7 @@
       {
         "name": "Sign",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -4646,7 +4649,7 @@
       {
         "name": "Blue Bird",
         "access_rules": [
-          ""
+          "$spray, $hover, $height, $yoshi"
         ],
         "sections": [
           {
@@ -4666,7 +4669,7 @@
       {
         "name": "Underside M",
         "access_rules": [
-          ""
+          "$spray"
         ],
         "sections": [
           {
@@ -4689,7 +4692,7 @@
     "name": "Corona Mountain Blue Coins",
     "chest_unopened_img": "images/items/Blue_Coin.png",
     "chest_opened_img": "images/items/Blue_Coin_Grey.png",
-    "visibility_rules":["blues on", "blues_boathouse"],
+    "visibility_rules":["blues_on", "blues_boathouse"],
     "access_rules":["$iscoronaenterable"],
     "children": [
       {
