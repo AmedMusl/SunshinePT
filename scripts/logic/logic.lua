@@ -328,6 +328,6 @@ end
 
 function BH24()
     if has("blues") == has("blues_on") or has("blues_boathouse") then
-        return blues() >= 240
+        return blues() == 240
     end
 end
