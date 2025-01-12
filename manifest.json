@@ -1,7 +1,7 @@
 {
   "name": "Super Mario Sunshine Poptracker",
   "game_name": "Super Mario Sunshine",
-  "package_version": "0.0.1",
+  "package_version": "0.0.2",
   "package_uid": "ap_sunshine",
   "platform": "gamecube",
   "author": "UmedMuzl, Schwartz Gandhi",
@@ -12,5 +12,6 @@
         "ap"
       ]
     }
-  }
+  },
+  "versions_url": "https://raw.githubusercontent.com/AmedMusl/SunshinePT/refs/heads/main/versions.json"
 }
