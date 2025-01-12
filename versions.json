@@ -1,0 +1,12 @@
+{
+    "versions": [
+        {
+            "package_version": "0.0.1",
+            "download_url": "https://github.com/AmedMusl/SunshinePT/releases/download/v0.0.1/sunshine_ap.zip",
+            "sha256": "dd03fbbdad1294d5018bf46da5ec363eda0541beaa0351fb29b725e0bee1a3aa",
+            "changelog": [
+                "Logic Fixes and added broadcast view"
+            ]
+        }
+    ]
+}
