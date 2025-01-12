@@ -2874,7 +2874,7 @@
       {
         "name": "Episode 6 Male Noki",
         "access_rules": [
-          "$spray"
+          "$spray, $yoshi"
         ],
         "sections": [
           {
@@ -2894,7 +2894,7 @@
       {
         "name": "Episode 6 Female Noki",
         "access_rules": [
-          "$spray"
+          "$spray, $yoshi"
         ],
         "sections": [
           {
