@@ -40,6 +40,9 @@ end
 function bluecount(targetblues)
     return blues() >= tonumber(targetblues)
 end
+function Boathousetrade()
+    return Tracker:ProviderCountForCode("boat_maximum")
+end
 function hascoronashines()
     if Tracker:ProviderCountForCode("shine") >= Tracker:ProviderCountForCode("coronashines") then
         return true
@@ -79,7 +82,7 @@ end
 
 function yoshi()
     if has("yoshistart") == has("skip_pinna") then
-        return has("yoshi")
+        return has("yoshi") and isPinnaEnterable() and Pinna4()
     elseif has("yoshistart") == has("plaza_only") then
         return isPinnaEnterable() and Pinna4()
     end
@@ -330,4 +333,100 @@ function BH24()
     if has("blues") == has("blues_on") or has("blues_boathouse") then
         return blues() == 240
     end
+end
+
+function B1()
+    return Boathousetrade() >= 1
+end
+
+function B2()
+    return Boathousetrade() >= 2
+end
+
+function B3()
+    return Boathousetrade() >= 3
+end
+
+function B4()
+    return Boathousetrade() >= 4
+end
+
+function B5()
+    return Boathousetrade() >= 5
+end
+
+function B6()
+    return Boathousetrade() >= 6
+end
+
+function B7()
+    return Boathousetrade() >= 7
+end
+
+function B8()
+    return Boathousetrade() >= 8
+end
+
+function B9()
+    return Boathousetrade() >= 9
+end
+
+function B24()
+    return Boathousetrade() >= 24
+end
+
+function B10()
+    return Boathousetrade() >= 10
+end
+
+function B11()
+    return Boathousetrade() >= 11
+end
+
+function B12()
+    return Boathousetrade() >= 12
+end
+
+function B13()
+    return Boathousetrade() >= 13
+end
+
+function B14()
+    return Boathousetrade() >= 14
+end
+
+function B15()
+    return Boathousetrade() >= 15
+end
+
+function B16()
+    return Boathousetrade() >= 16
+end
+
+function B17()
+    return Boathousetrade() >= 17
+end
+
+function B18()
+    return Boathousetrade() >= 18
+end
+
+function B19()
+    return Boathousetrade() >= 19
+end
+
+function B20()
+    return Boathousetrade() >= 20
+end
+
+function B21()
+    return Boathousetrade() >= 21
+end
+
+function B22()
+    return Boathousetrade() >= 22
+end
+
+function B23()
+    return Boathousetrade() >= 23
 end
